@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: 7911aa5003c816c49948bae8f9df3983
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1474157411671741761
+    second: Orb3_sheet_0
+  - first:
+      213: 3619468241199592594
+    second: Orb3_sheet_1
+  - first:
+      213: 8696652419501070629
+    second: Orb3_sheet_2
+  - first:
+      213: -2970012315945134688
+    second: Orb3_sheet_3
+  - first:
+      213: 7442824788848910302
+    second: Orb3_sheet_4
+  - first:
+      213: -1639508061379606561
+    second: Orb3_sheet_5
+  - first:
+      213: 7661572890833683857
+    second: Orb3_sheet_6
+  - first:
+      213: 3957711541130682698
+    second: Orb3_sheet_7
+  - first:
+      213: -7017478480517790585
+    second: Orb3_sheet_8
+  - first:
+      213: 491626981563466843
+    second: Orb3_sheet_9
+  - first:
+      213: -1588815597121423482
+    second: Orb3_sheet_10
+  - first:
+      213: -7073691683237937514
+    second: Orb3_sheet_11
+  - first:
+      213: -1553759966915937655
+    second: Orb3_sheet_12
+  - first:
+      213: 2358858668799912513
+    second: Orb3_sheet_13
+  - first:
+      213: -6273953366487720440
+    second: Orb3_sheet_14
+  - first:
+      213: 4122884250294429186
+    second: Orb3_sheet_15
+  - first:
+      213: -9155804186893308964
+    second: Orb3_sheet_16
+  - first:
+      213: 6476363777069389444
+    second: Orb3_sheet_17
+  - first:
+      213: 8541652814414758024
+    second: Orb3_sheet_18
+  - first:
+      213: 6179251508613661366
+    second: Orb3_sheet_19
+  - first:
+      213: -2291417379574381685
+    second: Orb3_sheet_20
+  - first:
+      213: 3991543131625207910
+    second: Orb3_sheet_21
+  - first:
+      213: -1115456493124094862
+    second: Orb3_sheet_22
+  - first:
+      213: 7232337283795155533
+    second: Orb3_sheet_23
+  - first:
+      213: -5312257450262899592
+    second: Orb3_sheet_24
+  - first:
+      213: -3073050483913337558
+    second: Orb3_sheet_25
+  - first:
+      213: -5268889766414987861
+    second: Orb3_sheet_26
+  - first:
+      213: -3686441879545419332
+    second: Orb3_sheet_27
+  - first:
+      213: -2563723380879948580
+    second: Orb3_sheet_28
+  - first:
+      213: 3338835633910454888
+    second: Orb3_sheet_29
+  - first:
+      213: 7856142385143958656
+    second: Orb3_sheet_30
+  - first:
+      213: -237941871248389376
+    second: Orb3_sheet_31
+  - first:
+      213: 8066589309306124649
+    second: Orb3_sheet_32
+  - first:
+      213: 660986435329867628
+    second: Orb3_sheet_33
+  - first:
+      213: -6156938778257247946
+    second: Orb3_sheet_34
+  - first:
+      213: -7055401752917117146
+    second: Orb3_sheet_35
+  - first:
+      213: 7066761325124403022
+    second: Orb3_sheet_36
+  - first:
+      213: 6180908817211847624
+    second: Orb3_sheet_37
+  - first:
+      213: -3486814318905042298
+    second: Orb3_sheet_38
+  - first:
+      213: 400927061845358694
+    second: Orb3_sheet_39
+  - first:
+      213: 2341775424023349992
+    second: Orb3_sheet_40
+  - first:
+      213: 604016235978079820
+    second: Orb3_sheet_41
+  - first:
+      213: -8964857095581721713
+    second: Orb3_sheet_42
+  - first:
+      213: 7218629516975521063
+    second: Orb3_sheet_43
+  - first:
+      213: -5888101637483287452
+    second: Orb3_sheet_44
+  - first:
+      213: 9191531105602462135
+    second: Orb3_sheet_45
+  - first:
+      213: 6275628123460389537
+    second: Orb3_sheet_46
+  - first:
+      213: 4080005383849239925
+    second: Orb3_sheet_47
+  - first:
+      213: -7489342599224666823
+    second: Orb3_sheet_48
+  - first:
+      213: 4128109594701967341
+    second: Orb3_sheet_49
+  - first:
+      213: 4323024123555940355
+    second: Orb3_sheet_50
+  - first:
+      213: -6281284351648272418
+    second: Orb3_sheet_51
+  - first:
+      213: 5421805210118428048
+    second: Orb3_sheet_52
+  - first:
+      213: 7070356073387064666
+    second: Orb3_sheet_53
+  - first:
+      213: 7081227436061966273
+    second: Orb3_sheet_54
+  - first:
+      213: 1581897018825819654
+    second: Orb3_sheet_55
+  - first:
+      213: 2813524323058832617
+    second: Orb3_sheet_56
+  - first:
+      213: -6617892375602999983
+    second: Orb3_sheet_57
+  - first:
+      213: -7082418311393239894
+    second: Orb3_sheet_58
+  - first:
+      213: -3498444109815623522
+    second: Orb3_sheet_59
+  - first:
+      213: 583278462893542497
+    second: Orb3_sheet_60
+  - first:
+      213: -2272557827194137635
+    second: Orb3_sheet_61
+  - first:
+      213: 4583192833907763583
+    second: Orb3_sheet_62
+  - first:
+      213: -8274987598754284998
+    second: Orb3_sheet_63
+  - first:
+      213: -7670527539605369515
+    second: Orb3_sheet_64
+  - first:
+      213: 4455656972114736510
+    second: Orb3_sheet_65
+  - first:
+      213: -3079344461257644052
+    second: Orb3_sheet_66
+  - first:
+      213: -3209290620946780280
+    second: Orb3_sheet_67
+  - first:
+      213: -4870190093626199801
+    second: Orb3_sheet_68
+  - first:
+      213: 1547141034394978421
+    second: Orb3_sheet_69
+  - first:
+      213: 5549943697679756529
+    second: Orb3_sheet_70
+  - first:
+      213: 671888788842566550
+    second: Orb3_sheet_71
+  - first:
+      213: 720314903901099694
+    second: Orb3_sheet_72
+  - first:
+      213: -4301970467347338548
+    second: Orb3_sheet_73
+  - first:
+      213: -5551491249883572948
+    second: Orb3_sheet_74
+  - first:
+      213: -5036126392318423911
+    second: Orb3_sheet_75
+  - first:
+      213: 8081413448257370618
+    second: Orb3_sheet_76
+  - first:
+      213: 8526155276625212422
+    second: Orb3_sheet_77
+  - first:
+      213: 3179269089430077132
+    second: Orb3_sheet_78
+  - first:
+      213: -7674200611152763577
+    second: Orb3_sheet_79
+  - first:
+      213: -1999384818753365107
+    second: Orb3_sheet_80
+  - first:
+      213: -5487369722751465945
+    second: Orb3_sheet_81
+  - first:
+      213: 4782188967821735014
+    second: Orb3_sheet_82
+  - first:
+      213: 4334611351291107360
+    second: Orb3_sheet_83
+  - first:
+      213: -8042727974295966753
+    second: Orb3_sheet_84
+  - first:
+      213: -2552106675300741836
+    second: Orb3_sheet_85
+  - first:
+      213: -2583485977118839974
+    second: Orb3_sheet_86
+  - first:
+      213: -3319031854460243214
+    second: Orb3_sheet_87
+  - first:
+      213: 2195646290282714866
+    second: Orb3_sheet_88
+  - first:
+      213: -4336259424412175025
+    second: Orb3_sheet_89
+  - first:
+      213: 7863252949620082468
+    second: Orb3_sheet_90
+  - first:
+      213: 7257939322346166953
+    second: Orb3_sheet_91
+  - first:
+      213: 1693054513712744420
+    second: Orb3_sheet_92
+  - first:
+      213: 1685560615896687427
+    second: Orb3_sheet_93
+  - first:
+      213: 4663366819197047367
+    second: Orb3_sheet_94
+  - first:
+      213: -1008270632143845873
+    second: Orb3_sheet_95
+  - first:
+      213: 4876499885434699172
+    second: Orb3_sheet_96
+  - first:
+      213: -4864046332098118998
+    second: Orb3_sheet_97
+  - first:
+      213: -6165815516395537688
+    second: Orb3_sheet_98
+  - first:
+      213: 513748779611463271
+    second: Orb3_sheet_99
+  - first:
+      213: 1346868212103193047
+    second: Orb3_sheet_100
+  - first:
+      213: -2111740713078381075
+    second: Orb3_sheet_101
+  - first:
+      213: 3671954777206002937
+    second: Orb3_sheet_102
+  - first:
+      213: -8326887261135715542
+    second: Orb3_sheet_103
+  - first:
+      213: -673765773819691904
+    second: Orb3_sheet_104
+  - first:
+      213: -4889147913170879113
+    second: Orb3_sheet_105
+  - first:
+      213: 8144751584418277063
+    second: Orb3_sheet_106
+  - first:
+      213: 7223798176104692116
+    second: Orb3_sheet_107
+  - first:
+      213: 6657066028126612222
+    second: Orb3_sheet_108
+  - first:
+      213: 2089861684347735731
+    second: Orb3_sheet_109
+  - first:
+      213: -5731819403068791029
+    second: Orb3_sheet_110
+  - first:
+      213: 1463166970186900440
+    second: Orb3_sheet_111
+  - first:
+      213: 7227002386736921314
+    second: Orb3_sheet_112
+  - first:
+      213: 3412184651544660193
+    second: Orb3_sheet_113
+  - first:
+      213: 7813414735087500109
+    second: Orb3_sheet_114
+  - first:
+      213: -2768022614898768694
+    second: Orb3_sheet_115
+  - first:
+      213: 4906305109384400529
+    second: Orb3_sheet_116
+  - first:
+      213: 3810460358471485612
+    second: Orb3_sheet_117
+  - first:
+      213: 7811064221632183743
+    second: Orb3_sheet_118
+  - first:
+      213: 6350685843972782527
+    second: Orb3_sheet_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb3_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1934
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14514b10b52457410800000000000000
+      internalID: 1474157411671741761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1933
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2947288403fea3230800000000000000
+      internalID: 3619468241199592594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1933
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52917677c47b0b870800000000000000
+      internalID: 8696652419501070629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1933
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51e81d88568c6d0800000000000000
+      internalID: -2970012315945134688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1932
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf9fc036b93a4760800000000000000
+      internalID: 7442824788848910302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1931
+        width: 154
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7441bca1c4f39e0800000000000000
+      internalID: -1639508061379606561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1931
+        width: 155
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19587e293ff535a60800000000000000
+      internalID: 7661572890833683857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1931
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41ee848dad9ce630800000000000000
+      internalID: 3957711541130682698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1931
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7840acd8088ec9e90800000000000000
+      internalID: -7017478480517790585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1930
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54861e822c92d600800000000000000
+      internalID: 491626981563466843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1931
+        width: 151
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873affd1a463f9e0800000000000000
+      internalID: -1588815597121423482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb7f164e235dd90800000000000000
+      internalID: -7073691683237937514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1738
+        width: 149
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ab0c1da8fef6ae0800000000000000
+      internalID: -1553759966915937655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1737
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a6b2526795cb020800000000000000
+      internalID: 2358858668799912513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1737
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e122d67a07ee8a0800000000000000
+      internalID: -6273953366487720440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1738
+        width: 147
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062ad4b16d673930800000000000000
+      internalID: 4122884250294429186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1738
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdba03ff99c00f080800000000000000
+      internalID: -9155804186893308964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1739
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4869d60ca8aa0e950800000000000000
+      internalID: 6476363777069389444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1740
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88048e5aafb0a8670800000000000000
+      internalID: 8541652814414758024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1741
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c6bc028c11c550800000000000000
+      internalID: 6179251508613661366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1742
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830052a8004330e0800000000000000
+      internalID: -2291417379574381685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1743
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bb22845fc46730800000000000000
+      internalID: 3991543131625207910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1553
+        width: 144
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747fecba3a1580f0800000000000000
+      internalID: -1115456493124094862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1553
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a7c68e07c6e5460800000000000000
+      internalID: 7232337283795155533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1551
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87458a99ef11746b0800000000000000
+      internalID: -5312257450262899592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1551
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25d089ddd45a55d0800000000000000
+      internalID: -3073050483913337558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1550
+        width: 147
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badc4285ca421e6b0800000000000000
+      internalID: -5268889766414987861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1550
+        width: 149
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9629464a027dcc0800000000000000
+      internalID: -3686441879545419332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1550
+        width: 149
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd489441b23db6cd0800000000000000
+      internalID: -2563723380879948580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1550
+        width: 149
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a16a2b15de55e20800000000000000
+      internalID: 3338835633910454888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1550
+        width: 148
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c456b20ef960d60800000000000000
+      internalID: 7856142385143958656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1551
+        width: 149
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b4c07f029a2bcf0800000000000000
+      internalID: -237941871248389376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1550
+        width: 149
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969b72afc3842ff60800000000000000
+      internalID: 8066589309306124649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1356
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f303f29ab4c2900800000000000000
+      internalID: 660986435329867628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1353
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63136225dc82e8aa0800000000000000
+      internalID: -6156938778257247946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1352
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f4b1ac7d261e90800000000000000
+      internalID: -7055401752917117146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1351
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3280ebfd221260800000000000000
+      internalID: 7066761325124403022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1350
+        width: 146
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3fdf642dff6c550800000000000000
+      internalID: 6180908817211847624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1350
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a5be3d9d85c9fc0800000000000000
+      internalID: -3486814318905042298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1350
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668322ed901609500800000000000000
+      internalID: 400927061845358694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1350
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac6a44758af7020800000000000000
+      internalID: 2341775424023349992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1350
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eba000195e16800800000000000000
+      internalID: 604016235978079820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1351
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b16bb28fd669380800000000000000
+      internalID: -8964857095581721713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1352
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72db97cbc49bd2460800000000000000
+      internalID: 7218629516975521063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1160
+        width: 149
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca968d1c2494ea0800000000000000
+      internalID: -5888101637483287452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1161
+        width: 150
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1636b77d0ee8f70800000000000000
+      internalID: 9191531105602462135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1162
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aace415782871750800000000000000
+      internalID: 6275628123460389537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1163
+        width: 151
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e302a7471f9830800000000000000
+      internalID: 4080005383849239925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1164
+        width: 150
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93553041692801890800000000000000
+      internalID: -7489342599224666823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1164
+        width: 149
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa7120ecdf94930800000000000000
+      internalID: 4128109594701967341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1164
+        width: 149
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3080ff739877efb30800000000000000
+      internalID: 4323024123555940355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1164
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe8ce692564d8a0800000000000000
+      internalID: -6281284351648272418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1164
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0959876dc1f1e3b40800000000000000
+      internalID: 5421805210118428048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1164
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5df2cd6363fe1260800000000000000
+      internalID: 7070356073387064666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1164
+        width: 149
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf393cc5d2954260800000000000000
+      internalID: 7081227436061966273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606cc5615f604f510800000000000000
+      internalID: 1581897018825819654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 972
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4d7d21775ab0720800000000000000
+      internalID: 2813524323058832617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 972
+        width: 152
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dca6e82f58824a0800000000000000
+      internalID: -6617892375602999983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 972
+        width: 152
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac1faee11236bd90800000000000000
+      internalID: -7082418311393239894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 971
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90d1ef1e97037fc0800000000000000
+      internalID: -3498444109815623522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 971
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cc7e1fba8381800800000000000000
+      internalID: 583278462893542497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 971
+        width: 151
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd35f8a52b04670e0800000000000000
+      internalID: -2272557827194137635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 971
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7920328995ca9f30800000000000000
+      internalID: 4583192833907763583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 971
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afc772f96592d80800000000000000
+      internalID: -8274987598754284998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 971
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d88f9c7dfcc8590800000000000000
+      internalID: -7670527539605369515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 971
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7534e7b86ca5dd30800000000000000
+      internalID: 4455656972114736510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 778
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ebad0788f345d0800000000000000
+      internalID: -3079344461257644052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 778
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f697d0f2f4673d0800000000000000
+      internalID: -3209290620946780280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 778
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701b8c8c9eb996cb0800000000000000
+      internalID: -4870190093626199801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 778
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5780b8cd29c887510800000000000000
+      internalID: 1547141034394978421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 778
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcae9f536c550d40800000000000000
+      internalID: 5549943697679756529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 778
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693578b2b47035900800000000000000
+      internalID: 671888788842566550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 778
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d175b6921ff900800000000000000
+      internalID: 720314903901099694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 778
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca6a8b17a45c44c0800000000000000
+      internalID: -4301970467347338548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 778
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25100d0f1425f2b0800000000000000
+      internalID: -5551491249883572948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 778
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c04ed8ab51c1ab0800000000000000
+      internalID: -5036126392318423911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 778
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9f17ac6b2f62070800000000000000
+      internalID: 8081413448257370618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 584
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047113fc0df25670800000000000000
+      internalID: 8526155276625212422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 585
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccefbd074680f1c20800000000000000
+      internalID: 3179269089430077132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 585
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745672d2433cf7590800000000000000
+      internalID: -7674200611152763577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 584
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b95ecb912c044e0800000000000000
+      internalID: -1999384818753365107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 585
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264a2c7f42f8d3b0800000000000000
+      internalID: -5487369722751465945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 584
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6647ec3778fbd5240800000000000000
+      internalID: 4782188967821735014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 584
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281519ee02a72c30800000000000000
+      internalID: 4334611351291107360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 584
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbedf2058d726090800000000000000
+      internalID: -8042727974295966753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 584
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dcbcd1088159cd0800000000000000
+      internalID: -2552106675300741836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 583
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5be0a3113d952cd0800000000000000
+      internalID: -2583485977118839974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 583
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2f0b40d1e60f1d0800000000000000
+      internalID: -3319031854460243214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 390
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f694b00ba0887e10800000000000000
+      internalID: 2195646290282714866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 390
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45f8f9270382d3c0800000000000000
+      internalID: -4336259424412175025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 390
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c52975e2ef1d60800000000000000
+      internalID: 7863252949620082468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 392
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa58c50c5169b460800000000000000
+      internalID: 7257939322346166953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 392
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7483b2c10fe7710800000000000000
+      internalID: 1693054513712744420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 392
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34329ed1370546710800000000000000
+      internalID: 1685560615896687427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 392
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742559b1a6b97b040800000000000000
+      internalID: 4663366819197047367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 393
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f068b9db337e102f0800000000000000
+      internalID: -1008270632143845873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 394
+        width: 139
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad719a1fcecca340800000000000000
+      internalID: 4876499885434699172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 393
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaff3cb1af6f7cb0800000000000000
+      internalID: -4864046332098118998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 392
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaf6aaa47f9e6aa0800000000000000
+      internalID: -6165815516395537688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 198
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e18880bc3312700800000000000000
+      internalID: 513748779611463271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 197
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d12dadb08901b210800000000000000
+      internalID: 1346868212103193047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 197
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ab3b820791b2e0800000000000000
+      internalID: -2111740713078381075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 197
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f499ae3a6765f230800000000000000
+      internalID: 3671954777206002937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 196
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c74b5724f07c80800000000000000
+      internalID: -8326887261135715542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 197
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c39a5399d46a6f0800000000000000
+      internalID: -673765773819691904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 197
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d7b1570e1462cb0800000000000000
+      internalID: -4889147913170879113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 200
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c62d0dc968f70170800000000000000
+      internalID: 8144751584418277063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 201
+        width: 147
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b5d7fa26104460800000000000000
+      internalID: 7223798176104692116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 202
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaaecc2846a26c50800000000000000
+      internalID: 6657066028126612222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 202
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be0f3d112ea00d10800000000000000
+      internalID: 2089861684347735731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a4631f9c7470b0800000000000000
+      internalID: -5731819403068791029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 8
+        width: 154
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d323117b963e4410800000000000000
+      internalID: 1463166970186900440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 8
+        width: 155
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaba5461687b4460800000000000000
+      internalID: 7227002386736921314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 8
+        width: 156
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80c5facd38a5f20800000000000000
+      internalID: 3412184651544660193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 8
+        width: 156
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b71b7ed43de6c60800000000000000
+      internalID: 7813414735087500109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 6
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac406bce8120699d0800000000000000
+      internalID: -2768022614898768694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 6
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e8a849082b61440800000000000000
+      internalID: 4906305109384400529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 3
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca88661e18971e430800000000000000
+      internalID: 3810460358471485612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd36285689766c60800000000000000
+      internalID: 7811064221632183743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb3_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 0
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97912b02b222850800000000000000
+      internalID: 6350685843972782527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb3_sheet_0: 1474157411671741761
+      Orb3_sheet_1: 3619468241199592594
+      Orb3_sheet_10: -1588815597121423482
+      Orb3_sheet_100: 1346868212103193047
+      Orb3_sheet_101: -2111740713078381075
+      Orb3_sheet_102: 3671954777206002937
+      Orb3_sheet_103: -8326887261135715542
+      Orb3_sheet_104: -673765773819691904
+      Orb3_sheet_105: -4889147913170879113
+      Orb3_sheet_106: 8144751584418277063
+      Orb3_sheet_107: 7223798176104692116
+      Orb3_sheet_108: 6657066028126612222
+      Orb3_sheet_109: 2089861684347735731
+      Orb3_sheet_11: -7073691683237937514
+      Orb3_sheet_110: -5731819403068791029
+      Orb3_sheet_111: 1463166970186900440
+      Orb3_sheet_112: 7227002386736921314
+      Orb3_sheet_113: 3412184651544660193
+      Orb3_sheet_114: 7813414735087500109
+      Orb3_sheet_115: -2768022614898768694
+      Orb3_sheet_116: 4906305109384400529
+      Orb3_sheet_117: 3810460358471485612
+      Orb3_sheet_118: 7811064221632183743
+      Orb3_sheet_119: 6350685843972782527
+      Orb3_sheet_12: -1553759966915937655
+      Orb3_sheet_13: 2358858668799912513
+      Orb3_sheet_14: -6273953366487720440
+      Orb3_sheet_15: 4122884250294429186
+      Orb3_sheet_16: -9155804186893308964
+      Orb3_sheet_17: 6476363777069389444
+      Orb3_sheet_18: 8541652814414758024
+      Orb3_sheet_19: 6179251508613661366
+      Orb3_sheet_2: 8696652419501070629
+      Orb3_sheet_20: -2291417379574381685
+      Orb3_sheet_21: 3991543131625207910
+      Orb3_sheet_22: -1115456493124094862
+      Orb3_sheet_23: 7232337283795155533
+      Orb3_sheet_24: -5312257450262899592
+      Orb3_sheet_25: -3073050483913337558
+      Orb3_sheet_26: -5268889766414987861
+      Orb3_sheet_27: -3686441879545419332
+      Orb3_sheet_28: -2563723380879948580
+      Orb3_sheet_29: 3338835633910454888
+      Orb3_sheet_3: -2970012315945134688
+      Orb3_sheet_30: 7856142385143958656
+      Orb3_sheet_31: -237941871248389376
+      Orb3_sheet_32: 8066589309306124649
+      Orb3_sheet_33: 660986435329867628
+      Orb3_sheet_34: -6156938778257247946
+      Orb3_sheet_35: -7055401752917117146
+      Orb3_sheet_36: 7066761325124403022
+      Orb3_sheet_37: 6180908817211847624
+      Orb3_sheet_38: -3486814318905042298
+      Orb3_sheet_39: 400927061845358694
+      Orb3_sheet_4: 7442824788848910302
+      Orb3_sheet_40: 2341775424023349992
+      Orb3_sheet_41: 604016235978079820
+      Orb3_sheet_42: -8964857095581721713
+      Orb3_sheet_43: 7218629516975521063
+      Orb3_sheet_44: -5888101637483287452
+      Orb3_sheet_45: 9191531105602462135
+      Orb3_sheet_46: 6275628123460389537
+      Orb3_sheet_47: 4080005383849239925
+      Orb3_sheet_48: -7489342599224666823
+      Orb3_sheet_49: 4128109594701967341
+      Orb3_sheet_5: -1639508061379606561
+      Orb3_sheet_50: 4323024123555940355
+      Orb3_sheet_51: -6281284351648272418
+      Orb3_sheet_52: 5421805210118428048
+      Orb3_sheet_53: 7070356073387064666
+      Orb3_sheet_54: 7081227436061966273
+      Orb3_sheet_55: 1581897018825819654
+      Orb3_sheet_56: 2813524323058832617
+      Orb3_sheet_57: -6617892375602999983
+      Orb3_sheet_58: -7082418311393239894
+      Orb3_sheet_59: -3498444109815623522
+      Orb3_sheet_6: 7661572890833683857
+      Orb3_sheet_60: 583278462893542497
+      Orb3_sheet_61: -2272557827194137635
+      Orb3_sheet_62: 4583192833907763583
+      Orb3_sheet_63: -8274987598754284998
+      Orb3_sheet_64: -7670527539605369515
+      Orb3_sheet_65: 4455656972114736510
+      Orb3_sheet_66: -3079344461257644052
+      Orb3_sheet_67: -3209290620946780280
+      Orb3_sheet_68: -4870190093626199801
+      Orb3_sheet_69: 1547141034394978421
+      Orb3_sheet_7: 3957711541130682698
+      Orb3_sheet_70: 5549943697679756529
+      Orb3_sheet_71: 671888788842566550
+      Orb3_sheet_72: 720314903901099694
+      Orb3_sheet_73: -4301970467347338548
+      Orb3_sheet_74: -5551491249883572948
+      Orb3_sheet_75: -5036126392318423911
+      Orb3_sheet_76: 8081413448257370618
+      Orb3_sheet_77: 8526155276625212422
+      Orb3_sheet_78: 3179269089430077132
+      Orb3_sheet_79: -7674200611152763577
+      Orb3_sheet_8: -7017478480517790585
+      Orb3_sheet_80: -1999384818753365107
+      Orb3_sheet_81: -5487369722751465945
+      Orb3_sheet_82: 4782188967821735014
+      Orb3_sheet_83: 4334611351291107360
+      Orb3_sheet_84: -8042727974295966753
+      Orb3_sheet_85: -2552106675300741836
+      Orb3_sheet_86: -2583485977118839974
+      Orb3_sheet_87: -3319031854460243214
+      Orb3_sheet_88: 2195646290282714866
+      Orb3_sheet_89: -4336259424412175025
+      Orb3_sheet_9: 491626981563466843
+      Orb3_sheet_90: 7863252949620082468
+      Orb3_sheet_91: 7257939322346166953
+      Orb3_sheet_92: 1693054513712744420
+      Orb3_sheet_93: 1685560615896687427
+      Orb3_sheet_94: 4663366819197047367
+      Orb3_sheet_95: -1008270632143845873
+      Orb3_sheet_96: 4876499885434699172
+      Orb3_sheet_97: -4864046332098118998
+      Orb3_sheet_98: -6165815516395537688
+      Orb3_sheet_99: 513748779611463271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

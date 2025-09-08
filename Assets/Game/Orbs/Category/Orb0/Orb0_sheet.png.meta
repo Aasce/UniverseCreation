@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: a9433e9f8d725454c9ef3ec3561f3b66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8804368569287382113
+    second: Orb0_sheet_0
+  - first:
+      213: -6364599022258213879
+    second: Orb0_sheet_1
+  - first:
+      213: 1738297821389339915
+    second: Orb0_sheet_2
+  - first:
+      213: 5381939834122291219
+    second: Orb0_sheet_3
+  - first:
+      213: -4541164855928544137
+    second: Orb0_sheet_4
+  - first:
+      213: -5666397415281369995
+    second: Orb0_sheet_5
+  - first:
+      213: 2461439403506046561
+    second: Orb0_sheet_6
+  - first:
+      213: -2398939580852048098
+    second: Orb0_sheet_7
+  - first:
+      213: -7706237498434266934
+    second: Orb0_sheet_8
+  - first:
+      213: 4662628940253992377
+    second: Orb0_sheet_9
+  - first:
+      213: -2487099630531051802
+    second: Orb0_sheet_10
+  - first:
+      213: 8829419200761868424
+    second: Orb0_sheet_11
+  - first:
+      213: -171199823073146817
+    second: Orb0_sheet_12
+  - first:
+      213: -5520376697546247061
+    second: Orb0_sheet_13
+  - first:
+      213: -5041456090127937243
+    second: Orb0_sheet_14
+  - first:
+      213: -6190585820082731025
+    second: Orb0_sheet_15
+  - first:
+      213: 6447676259373629624
+    second: Orb0_sheet_16
+  - first:
+      213: 7301559015298028803
+    second: Orb0_sheet_17
+  - first:
+      213: -3006809163056691172
+    second: Orb0_sheet_18
+  - first:
+      213: 5367439580084768991
+    second: Orb0_sheet_19
+  - first:
+      213: -6056166211244975663
+    second: Orb0_sheet_20
+  - first:
+      213: 4102526949318736062
+    second: Orb0_sheet_21
+  - first:
+      213: 4488609943884642943
+    second: Orb0_sheet_22
+  - first:
+      213: -3346949894474275308
+    second: Orb0_sheet_23
+  - first:
+      213: -5580318556738308147
+    second: Orb0_sheet_24
+  - first:
+      213: 1287251785339069988
+    second: Orb0_sheet_25
+  - first:
+      213: 596181101242574660
+    second: Orb0_sheet_26
+  - first:
+      213: -2213641650580024119
+    second: Orb0_sheet_27
+  - first:
+      213: -2761564252781105932
+    second: Orb0_sheet_28
+  - first:
+      213: 6724245285248766514
+    second: Orb0_sheet_29
+  - first:
+      213: 2443385975182083754
+    second: Orb0_sheet_30
+  - first:
+      213: 6198535086819622837
+    second: Orb0_sheet_31
+  - first:
+      213: 3779124653740122028
+    second: Orb0_sheet_32
+  - first:
+      213: 7037517146062791728
+    second: Orb0_sheet_33
+  - first:
+      213: -4286102515988539766
+    second: Orb0_sheet_34
+  - first:
+      213: -3579561190593473788
+    second: Orb0_sheet_35
+  - first:
+      213: -304253217169924352
+    second: Orb0_sheet_36
+  - first:
+      213: -5990345801880719516
+    second: Orb0_sheet_37
+  - first:
+      213: 582028708139083672
+    second: Orb0_sheet_38
+  - first:
+      213: -1123775425551206011
+    second: Orb0_sheet_39
+  - first:
+      213: -7136673862470231352
+    second: Orb0_sheet_40
+  - first:
+      213: -7437315535294721626
+    second: Orb0_sheet_41
+  - first:
+      213: -2469117429260853532
+    second: Orb0_sheet_42
+  - first:
+      213: -691815982409995519
+    second: Orb0_sheet_43
+  - first:
+      213: 5937729570537527682
+    second: Orb0_sheet_44
+  - first:
+      213: -4373541163215922237
+    second: Orb0_sheet_45
+  - first:
+      213: -4260186778973212892
+    second: Orb0_sheet_46
+  - first:
+      213: -5732944286192167345
+    second: Orb0_sheet_47
+  - first:
+      213: 3418822204813782054
+    second: Orb0_sheet_48
+  - first:
+      213: 7692915307253840397
+    second: Orb0_sheet_49
+  - first:
+      213: 1188186060198120043
+    second: Orb0_sheet_50
+  - first:
+      213: 5680645195492542341
+    second: Orb0_sheet_51
+  - first:
+      213: 841148826731347342
+    second: Orb0_sheet_52
+  - first:
+      213: 3679141826563397561
+    second: Orb0_sheet_53
+  - first:
+      213: -6248742595587450150
+    second: Orb0_sheet_54
+  - first:
+      213: -790953064839456308
+    second: Orb0_sheet_55
+  - first:
+      213: -5252619008821573083
+    second: Orb0_sheet_56
+  - first:
+      213: -7731505790904252973
+    second: Orb0_sheet_57
+  - first:
+      213: -3976730187067870496
+    second: Orb0_sheet_58
+  - first:
+      213: -5408269824307845544
+    second: Orb0_sheet_59
+  - first:
+      213: -9013776048664567187
+    second: Orb0_sheet_60
+  - first:
+      213: -3885879312364861325
+    second: Orb0_sheet_61
+  - first:
+      213: -8469991071547310629
+    second: Orb0_sheet_62
+  - first:
+      213: -3546572386487359887
+    second: Orb0_sheet_63
+  - first:
+      213: 2843982998273177820
+    second: Orb0_sheet_64
+  - first:
+      213: 4215768027409630423
+    second: Orb0_sheet_65
+  - first:
+      213: 8124015947762526913
+    second: Orb0_sheet_66
+  - first:
+      213: 3690669769261413478
+    second: Orb0_sheet_67
+  - first:
+      213: -1793599516979228799
+    second: Orb0_sheet_68
+  - first:
+      213: -412252562883543515
+    second: Orb0_sheet_69
+  - first:
+      213: 1195759558422680101
+    second: Orb0_sheet_70
+  - first:
+      213: -3674714773943550248
+    second: Orb0_sheet_71
+  - first:
+      213: -7499146945827194419
+    second: Orb0_sheet_72
+  - first:
+      213: -946746479586269509
+    second: Orb0_sheet_73
+  - first:
+      213: -7290153527464222099
+    second: Orb0_sheet_74
+  - first:
+      213: 5833711495020303999
+    second: Orb0_sheet_75
+  - first:
+      213: -8595633899406488099
+    second: Orb0_sheet_76
+  - first:
+      213: 313264017275252073
+    second: Orb0_sheet_77
+  - first:
+      213: -5387418622185360485
+    second: Orb0_sheet_78
+  - first:
+      213: -7081553553518680472
+    second: Orb0_sheet_79
+  - first:
+      213: -6409309534628429162
+    second: Orb0_sheet_80
+  - first:
+      213: -2432051514047406741
+    second: Orb0_sheet_81
+  - first:
+      213: 7233417627121410953
+    second: Orb0_sheet_82
+  - first:
+      213: 5946594727745352720
+    second: Orb0_sheet_83
+  - first:
+      213: 1640555605825264393
+    second: Orb0_sheet_84
+  - first:
+      213: -9019737937683130515
+    second: Orb0_sheet_85
+  - first:
+      213: 6346962497165857809
+    second: Orb0_sheet_86
+  - first:
+      213: 8375480825796761812
+    second: Orb0_sheet_87
+  - first:
+      213: 7263171256230345624
+    second: Orb0_sheet_88
+  - first:
+      213: -5796563192236130437
+    second: Orb0_sheet_89
+  - first:
+      213: -3598659355200554781
+    second: Orb0_sheet_90
+  - first:
+      213: -1873547658491319265
+    second: Orb0_sheet_91
+  - first:
+      213: -8814848639833887963
+    second: Orb0_sheet_92
+  - first:
+      213: 7286431059683619302
+    second: Orb0_sheet_93
+  - first:
+      213: 5773083379183963770
+    second: Orb0_sheet_94
+  - first:
+      213: -2113094374782519304
+    second: Orb0_sheet_95
+  - first:
+      213: 7709731291053310167
+    second: Orb0_sheet_96
+  - first:
+      213: -6093115972291984499
+    second: Orb0_sheet_97
+  - first:
+      213: 4966820355559722870
+    second: Orb0_sheet_98
+  - first:
+      213: -5502932120213654622
+    second: Orb0_sheet_99
+  - first:
+      213: 8939628238572838596
+    second: Orb0_sheet_100
+  - first:
+      213: 6180106469374485380
+    second: Orb0_sheet_101
+  - first:
+      213: -4305205798959667665
+    second: Orb0_sheet_102
+  - first:
+      213: 2540475405200842904
+    second: Orb0_sheet_103
+  - first:
+      213: -789781711219915090
+    second: Orb0_sheet_104
+  - first:
+      213: -3547906500569296806
+    second: Orb0_sheet_105
+  - first:
+      213: 914562041124091074
+    second: Orb0_sheet_106
+  - first:
+      213: 60211551272206748
+    second: Orb0_sheet_107
+  - first:
+      213: 5623232905174966917
+    second: Orb0_sheet_108
+  - first:
+      213: -6748244348935526557
+    second: Orb0_sheet_109
+  - first:
+      213: 9210975292704273123
+    second: Orb0_sheet_110
+  - first:
+      213: 5322745844535802830
+    second: Orb0_sheet_111
+  - first:
+      213: -1871096142483047596
+    second: Orb0_sheet_112
+  - first:
+      213: -3629875415215076964
+    second: Orb0_sheet_113
+  - first:
+      213: -449311618189816863
+    second: Orb0_sheet_114
+  - first:
+      213: 2518853263572953123
+    second: Orb0_sheet_115
+  - first:
+      213: -4788462069096115320
+    second: Orb0_sheet_116
+  - first:
+      213: -3495291794914817954
+    second: Orb0_sheet_117
+  - first:
+      213: -5788544774867887878
+    second: Orb0_sheet_118
+  - first:
+      213: -2390883253828213389
+    second: Orb0_sheet_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb0_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1928
+        width: 170
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730c03262f5bd24ab9cbee9cd989a30
+      internalID: 1914346118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1928
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f3056a4802e2468cff5d54e92dba4
+      internalID: -1970180364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1928
+        width: 166
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676c5011a78bda42b106df3f2307af3
+      internalID: -895069383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1929
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ac5c5254187740a18ed59ca1b5bc3
+      internalID: 98174541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1930
+        width: 169
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf461da2c198b14397e57e2fdfdd02a
+      internalID: -1563355371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1927
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d5aa3c5aec4d4baa628ec0cd1c734
+      internalID: 820120266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1929
+        width: 168
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b94b0b28107c459166b767123435d
+      internalID: 1080900443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1931
+        width: 167
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7304d1867776c974a9d4511b529be0fc
+      internalID: -1523878981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1930
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f5a3051734b74b9c134658d5a0421
+      internalID: 819979238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1930
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ab62fb8d490844bb913118b8ef53e
+      internalID: -251463737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1931
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43da369fdda284788da2b30a8b2882
+      internalID: 449144791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1737
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef424e7797a67604b90100ecc2cdc7de
+      internalID: 1198093636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1738
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8774286b9711d45aa88bba8703a8c1
+      internalID: 1076469113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1738
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cd856a4bded784a9ae25dc712e5523
+      internalID: 1399810603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1738
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b6cd8cbc387c842a8ec433891c2026
+      internalID: -1078344480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1738
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c5f82ced15b374b84107b1ec3ed75e
+      internalID: -1453881927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1738
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9ea8509e1bdc4094839100e25d011
+      internalID: 2087750445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1739
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c4819b7403fa04ba2c8c785f4a91a1
+      internalID: -1776470515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1739
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83fd5bcd65438543af59099294cae3e
+      internalID: 531079966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1737
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985917628aa32ed4fb23a3b6db782642
+      internalID: -1534955533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1738
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2bcb0f4f437f345bd5c2e8ea1bf347
+      internalID: -1122116927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1739
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c364153d1529fe84b9b638548dddf537
+      internalID: -608690974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1545
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095aab40ea1e0344fb6ad59f48a185d3
+      internalID: 67649665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1543
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72432e90930b5294585f41ab7bc76d10
+      internalID: 84802660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1544
+        width: 164
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538da9bbb61a5894099a995b5a800ade
+      internalID: 1864741567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1544
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8766bcfd53736df42983f03804d6742f
+      internalID: 785858655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1545
+        width: 165
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3e201429c7b44ba99ad84f83dfa08
+      internalID: -1950675930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1545
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de93519e504b74e8a39522775f269f
+      internalID: -2129287576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1546
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3003034e6a45048b814e14ab2cecf1
+      internalID: -1809118177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1545
+        width: 164
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e77600bb71374eb1f29d3da3243b0
+      internalID: -1461830296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1545
+        width: 165
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2abd2831febde54d8257784d40c8532
+      internalID: 2103797337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1545
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a25d24fc2b95943b2ac1b2d7cd0de8
+      internalID: -629245484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1545
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685eed12ee9eeee4fb4983b829dd3895
+      internalID: -323029119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1353
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60c5b59e6b8254e8813e9e7b847130
+      internalID: 1100632960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1353
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d22e48911793a24facf63bd25282a41
+      internalID: -366661077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1353
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49de2a1b1af25642a631a97ca361726
+      internalID: 1797788674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1353
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2dc6e3fa1e5646907c0520cc4eaf8
+      internalID: -2046365494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1352
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd32a426f8b085e4fa7a04911e28a298
+      internalID: 1334629446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1353
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d35ddf22060434687bcf822733d896
+      internalID: 662312560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1353
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5238a2d8e9f0253478694c2ba2d94d7c
+      internalID: 1022938958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1353
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb58bf062a43374cad826b90ee12ee8
+      internalID: 1380138726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1354
+        width: 164
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006389e91922b5b40af6abf3aa9a8877
+      internalID: 551362931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1354
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5460b164b612f41bb72789d64ec629
+      internalID: -222044975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1353
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f362b96abb87b4aaf93fe7c5fd6607
+      internalID: -641758937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1160
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543b6f1c9be0c294c9de815871ebe608
+      internalID: -1129001501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1159
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b59ac207f1df24d98796eb6ba9e0d4
+      internalID: -195670931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1160
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482634ee1be03c64bbafb800a2dba5ae
+      internalID: -723864808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1160
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10ddd3c44f44147b43ef1bc2d28468
+      internalID: 976694781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1160
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636232be64430584cb2bc54bf0c4c48c
+      internalID: -734506277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1160
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8f1ab270f44443afae1f2060dd31a
+      internalID: -721884260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1161
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4202deb47a83e614695bb3dbffffb6a1
+      internalID: 160658610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1161
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5952386dd719c9043830e23bb75ccadc
+      internalID: 408070920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1161
+        width: 164
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51f8deda6be6944d9662ae21caebaac
+      internalID: -781764884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1161
+        width: 164
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa4bb105c2dbf4abc6d886dcee00a1
+      internalID: -1964604577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1161
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2977e3369cc969d4dbed2d8b8b2c43fb
+      internalID: -948847990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 968
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd85228528bdda8499c79335f95d248e
+      internalID: -1854539605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 969
+        width: 163
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8450ab0a9c1554409fdde135f08238b
+      internalID: -1046114386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 969
+        width: 163
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e563ef65502904daf6cd4caa629be7
+      internalID: -1313363412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 970
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a4ed16cc5bc540b7042731b6d8421
+      internalID: -1362362229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 970
+        width: 163
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e1842c55dc104c9c218dca1c235b6
+      internalID: 1594767761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 969
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393f7045c992a14487391aac56f43bd
+      internalID: -795926700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 970
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee31334acf30142489ac52178e374d3c
+      internalID: 685131738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 970
+        width: 165
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad5c399ba45d940add07e69877583e
+      internalID: -1441271453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 969
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dae92cb065a3c641a70448776c6470e
+      internalID: -1327609760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 969
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260a926b29a8ef4490a8d9fdb3df4b9
+      internalID: -405875412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 969
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690f205105ae0e64d841c93bb7824d83
+      internalID: -837036476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 777
+        width: 164
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607985ce04595004bb1e9e1ad4258f0d
+      internalID: -1063843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 776
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5c0c3ffd78f04fb95e5c071034ad9
+      internalID: -8420820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 776
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7bd365b0cd5b408947f3f552c3c93
+      internalID: 32996690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 775
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fadf6a8d0d01845a3e9104082dd999
+      internalID: -876424309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 774
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff61133eb20ab4ba379b86df5595e1
+      internalID: -1873189167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 774
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675732195a3bd94da037962dd9d557f
+      internalID: -1961205313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 773
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522cacf649871b43ae4e870a0ea44c3
+      internalID: 420910411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 773
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce0cb5175c4e0b479d98982a35ca81d
+      internalID: 1984415923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 773
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7de844d78c26c418d9bebc853992a0
+      internalID: -182894565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 772
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811b9ff41dfdcf4087f2395fe787a83
+      internalID: 1960444988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 772
+        width: 162
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a86f8792139e64db4d30854daa6849
+      internalID: -1270357848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 581
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a563d9a40d4704a8ff121e738a7796
+      internalID: -1254254040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 579
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3856822c652cb409cdbc88b362d2ce
+      internalID: -23465994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 579
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e5f1f3933ffb4daaffb89d6830e93
+      internalID: 525410020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 580
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a671a4b37c23d4daba5cbc5008b658
+      internalID: -1690505041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 580
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3db577e4eca454b9628088b7a42b91
+      internalID: 40975842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 580
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a68568fb0495a4c9894c7178898b9c
+      internalID: -1954742244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 581
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa469daff3678143b88e7589c7d34a5
+      internalID: 161016629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 581
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f7f531f0bb514aa6ac5b6966490e2
+      internalID: -870639023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 582
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cb77215a5bd9449f878ac7f5858e2
+      internalID: -1340197405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 579
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b3941c7615af2419466f429808d874
+      internalID: -257491643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 579
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb88e08747336b74a94581d6421543d4
+      internalID: 1259937108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 386
+        width: 161
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf36c56efaf8747a84600923aa5e4e
+      internalID: 1019615922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 386
+        width: 162
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd694b4d2d3df4a95b751c078db504
+      internalID: -523867615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 384
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6038f8b0614f4c44a8182130f93dc937
+      internalID: -1737161771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 383
+        width: 162
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e37f9ec448f741ae6135592a307d6
+      internalID: -774222263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 383
+        width: 163
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af87b7a8d636942a327cf6a9819c25
+      internalID: -358103115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 383
+        width: 163
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b577f316e3c074d86b3f79325a7626
+      internalID: -1978139275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 383
+        width: 162
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb1b6a7a98e814791d57104a39ca12
+      internalID: -855281756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 384
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5dadf934d53d4d9c21e52968c0105
+      internalID: -439819553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 387
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aa24a4b2f7195469675f6bbcfa97c2
+      internalID: -2045701814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 387
+        width: 164
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e664ba08fe56584d88a5af29c30b619
+      internalID: 486672016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 387
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a9a0ca42186c64dab88dcaa74b6b44
+      internalID: -946808935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 167
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19806d3a3a7a3468e6c96f1ba4966e
+      internalID: -1600568103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 165
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb694b1fa4bef4bb4b72161e0e096f
+      internalID: -1800002568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 195
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb2b689d7246c4f8ed3dda2b3bb735
+      internalID: 325470423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 195
+        width: 166
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b22ea3235589478eec8fa90e1a4ee
+      internalID: -932332150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 195
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d9db8b8fd5cb4092905d39c9af23a
+      internalID: 338020525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 195
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334c952fb17f44e49ba4d82b73a8fe73
+      internalID: 1571426134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 195
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cefdecd61ae4bf4e8745d22a651d7a2
+      internalID: 1523232785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 195
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dababa17db2e3fe449f43d53cd9a4a02
+      internalID: -1762210324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 195
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34b4fc84cd5b9641939aba9653960b2
+      internalID: -397033024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 195
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3dd2c826852cf41b7385e0706ce50d
+      internalID: 986834151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 195
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ebee849d7db35478ae2c167a2fa303
+      internalID: 1744404640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319895db378385849a448b94d546323e
+      internalID: -1442215132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8392f96648778443b0a04458a0822f0
+      internalID: 432673656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb119f50a0f363439ac7da212e0e934
+      internalID: 1730411485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbd1f426446e8b4fb8b2599f3bdab15
+      internalID: 1881763732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52fae426eef87645a64cbe065bbffec
+      internalID: -942155562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4f7e1c4efa714487877d461f007dd
+      internalID: -658352489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 0
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10885597a6a2b614aa95939aa48f4c9e
+      internalID: 1622711447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 0
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a3865f081af643870d4da8d851c16
+      internalID: 833442057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b19793336c47c43b3a5fc4fd6064cd
+      internalID: -1394361252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb0_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35193e27e4e39fe4b8173635e5731b8c
+      internalID: 44765832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 26f8ef6032e17cc40b56cbb4e8d38137
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb0_sheet_0: 1914346118
+      Orb0_sheet_1: -1970180364
+      Orb0_sheet_10: 449144791
+      Orb0_sheet_100: -1800002568
+      Orb0_sheet_101: 325470423
+      Orb0_sheet_102: -932332150
+      Orb0_sheet_103: 338020525
+      Orb0_sheet_104: 1571426134
+      Orb0_sheet_105: 1523232785
+      Orb0_sheet_106: -1762210324
+      Orb0_sheet_107: -397033024
+      Orb0_sheet_108: 986834151
+      Orb0_sheet_109: 1744404640
+      Orb0_sheet_11: 1198093636
+      Orb0_sheet_110: -1442215132
+      Orb0_sheet_111: 432673656
+      Orb0_sheet_112: 1730411485
+      Orb0_sheet_113: 1881763732
+      Orb0_sheet_114: -942155562
+      Orb0_sheet_115: -658352489
+      Orb0_sheet_116: 1622711447
+      Orb0_sheet_117: 833442057
+      Orb0_sheet_118: -1394361252
+      Orb0_sheet_119: 44765832
+      Orb0_sheet_12: 1076469113
+      Orb0_sheet_13: 1399810603
+      Orb0_sheet_14: -1078344480
+      Orb0_sheet_15: -1453881927
+      Orb0_sheet_16: 2087750445
+      Orb0_sheet_17: -1776470515
+      Orb0_sheet_18: 531079966
+      Orb0_sheet_19: -1534955533
+      Orb0_sheet_2: -895069383
+      Orb0_sheet_20: -1122116927
+      Orb0_sheet_21: -608690974
+      Orb0_sheet_22: 67649665
+      Orb0_sheet_23: 84802660
+      Orb0_sheet_24: 1864741567
+      Orb0_sheet_25: 785858655
+      Orb0_sheet_26: -1950675930
+      Orb0_sheet_27: -2129287576
+      Orb0_sheet_28: -1809118177
+      Orb0_sheet_29: -1461830296
+      Orb0_sheet_3: 98174541
+      Orb0_sheet_30: 2103797337
+      Orb0_sheet_31: -629245484
+      Orb0_sheet_32: -323029119
+      Orb0_sheet_33: 1100632960
+      Orb0_sheet_34: -366661077
+      Orb0_sheet_35: 1797788674
+      Orb0_sheet_36: -2046365494
+      Orb0_sheet_37: 1334629446
+      Orb0_sheet_38: 662312560
+      Orb0_sheet_39: 1022938958
+      Orb0_sheet_4: -1563355371
+      Orb0_sheet_40: 1380138726
+      Orb0_sheet_41: 551362931
+      Orb0_sheet_42: -222044975
+      Orb0_sheet_43: -641758937
+      Orb0_sheet_44: -1129001501
+      Orb0_sheet_45: -195670931
+      Orb0_sheet_46: -723864808
+      Orb0_sheet_47: 976694781
+      Orb0_sheet_48: -734506277
+      Orb0_sheet_49: -721884260
+      Orb0_sheet_5: 820120266
+      Orb0_sheet_50: 160658610
+      Orb0_sheet_51: 408070920
+      Orb0_sheet_52: -781764884
+      Orb0_sheet_53: -1964604577
+      Orb0_sheet_54: -948847990
+      Orb0_sheet_55: -1854539605
+      Orb0_sheet_56: -1046114386
+      Orb0_sheet_57: -1313363412
+      Orb0_sheet_58: -1362362229
+      Orb0_sheet_59: 1594767761
+      Orb0_sheet_6: 1080900443
+      Orb0_sheet_60: -795926700
+      Orb0_sheet_61: 685131738
+      Orb0_sheet_62: -1441271453
+      Orb0_sheet_63: -1327609760
+      Orb0_sheet_64: -405875412
+      Orb0_sheet_65: -837036476
+      Orb0_sheet_66: -1063843484
+      Orb0_sheet_67: -8420820
+      Orb0_sheet_68: 32996690
+      Orb0_sheet_69: -876424309
+      Orb0_sheet_7: -1523878981
+      Orb0_sheet_70: -1873189167
+      Orb0_sheet_71: -1961205313
+      Orb0_sheet_72: 420910411
+      Orb0_sheet_73: 1984415923
+      Orb0_sheet_74: -182894565
+      Orb0_sheet_75: 1960444988
+      Orb0_sheet_76: -1270357848
+      Orb0_sheet_77: -1254254040
+      Orb0_sheet_78: -23465994
+      Orb0_sheet_79: 525410020
+      Orb0_sheet_8: 819979238
+      Orb0_sheet_80: -1690505041
+      Orb0_sheet_81: 40975842
+      Orb0_sheet_82: -1954742244
+      Orb0_sheet_83: 161016629
+      Orb0_sheet_84: -870639023
+      Orb0_sheet_85: -1340197405
+      Orb0_sheet_86: -257491643
+      Orb0_sheet_87: 1259937108
+      Orb0_sheet_88: 1019615922
+      Orb0_sheet_89: -523867615
+      Orb0_sheet_9: -251463737
+      Orb0_sheet_90: -1737161771
+      Orb0_sheet_91: -774222263
+      Orb0_sheet_92: -358103115
+      Orb0_sheet_93: -1978139275
+      Orb0_sheet_94: -855281756
+      Orb0_sheet_95: -439819553
+      Orb0_sheet_96: -2045701814
+      Orb0_sheet_97: 486672016
+      Orb0_sheet_98: -946808935
+      Orb0_sheet_99: -1600568103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

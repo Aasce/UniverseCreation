@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: f5c026f910a91e94b8de350c94ab5050
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6498490137233091616
+    second: Orb6_sheet_0
+  - first:
+      213: -3186162608676953088
+    second: Orb6_sheet_1
+  - first:
+      213: -8536722592121556575
+    second: Orb6_sheet_2
+  - first:
+      213: -2605268143353930816
+    second: Orb6_sheet_3
+  - first:
+      213: -3221535362638016965
+    second: Orb6_sheet_4
+  - first:
+      213: 4322562594071256182
+    second: Orb6_sheet_5
+  - first:
+      213: 1442643705923412670
+    second: Orb6_sheet_6
+  - first:
+      213: -4648577033432054565
+    second: Orb6_sheet_7
+  - first:
+      213: 8425193834912647632
+    second: Orb6_sheet_8
+  - first:
+      213: 7773891883046078012
+    second: Orb6_sheet_9
+  - first:
+      213: 4475805016378744749
+    second: Orb6_sheet_10
+  - first:
+      213: 2798170268823495571
+    second: Orb6_sheet_11
+  - first:
+      213: 2608633722506773881
+    second: Orb6_sheet_12
+  - first:
+      213: -1466859929037356810
+    second: Orb6_sheet_13
+  - first:
+      213: 8137472382142351564
+    second: Orb6_sheet_14
+  - first:
+      213: -7177620296781484366
+    second: Orb6_sheet_15
+  - first:
+      213: 1711927650025800891
+    second: Orb6_sheet_16
+  - first:
+      213: 2465499150835858763
+    second: Orb6_sheet_17
+  - first:
+      213: -8025527812543142616
+    second: Orb6_sheet_18
+  - first:
+      213: 2606533345280661117
+    second: Orb6_sheet_19
+  - first:
+      213: -2235567167102026654
+    second: Orb6_sheet_20
+  - first:
+      213: 2014166748026102617
+    second: Orb6_sheet_21
+  - first:
+      213: -6909687551394384937
+    second: Orb6_sheet_22
+  - first:
+      213: 4773176662424607278
+    second: Orb6_sheet_23
+  - first:
+      213: -2410624235782688551
+    second: Orb6_sheet_24
+  - first:
+      213: -5044005648781400260
+    second: Orb6_sheet_25
+  - first:
+      213: 5477100686178872267
+    second: Orb6_sheet_26
+  - first:
+      213: 1483073009802778869
+    second: Orb6_sheet_27
+  - first:
+      213: -2322923461072312221
+    second: Orb6_sheet_28
+  - first:
+      213: -4407609148964373571
+    second: Orb6_sheet_29
+  - first:
+      213: 6333234622237747421
+    second: Orb6_sheet_30
+  - first:
+      213: -1262186567445223420
+    second: Orb6_sheet_31
+  - first:
+      213: 1248944125012113625
+    second: Orb6_sheet_32
+  - first:
+      213: 7700134713856597155
+    second: Orb6_sheet_33
+  - first:
+      213: 6490738971763008295
+    second: Orb6_sheet_34
+  - first:
+      213: -1713953184398199744
+    second: Orb6_sheet_35
+  - first:
+      213: 8182854808944122114
+    second: Orb6_sheet_36
+  - first:
+      213: 189639251870437482
+    second: Orb6_sheet_37
+  - first:
+      213: -195128872924734431
+    second: Orb6_sheet_38
+  - first:
+      213: -7217227748929524030
+    second: Orb6_sheet_39
+  - first:
+      213: 5939737021988255686
+    second: Orb6_sheet_40
+  - first:
+      213: 7264184806780749150
+    second: Orb6_sheet_41
+  - first:
+      213: -1928798504003430154
+    second: Orb6_sheet_42
+  - first:
+      213: 6068034195832326813
+    second: Orb6_sheet_43
+  - first:
+      213: -7276743315801208516
+    second: Orb6_sheet_44
+  - first:
+      213: -5350251701786815462
+    second: Orb6_sheet_45
+  - first:
+      213: -2974969538487439406
+    second: Orb6_sheet_46
+  - first:
+      213: 4078978212737936770
+    second: Orb6_sheet_47
+  - first:
+      213: 7626099805788107121
+    second: Orb6_sheet_48
+  - first:
+      213: -6419882455223550338
+    second: Orb6_sheet_49
+  - first:
+      213: -1913504735349783073
+    second: Orb6_sheet_50
+  - first:
+      213: -9172927805621668560
+    second: Orb6_sheet_51
+  - first:
+      213: 5227205390228312779
+    second: Orb6_sheet_52
+  - first:
+      213: 6828334044766872907
+    second: Orb6_sheet_53
+  - first:
+      213: -7512986186651977340
+    second: Orb6_sheet_54
+  - first:
+      213: 7632099616497331164
+    second: Orb6_sheet_55
+  - first:
+      213: 4325200522836958346
+    second: Orb6_sheet_56
+  - first:
+      213: 4069714804524990070
+    second: Orb6_sheet_57
+  - first:
+      213: 2787493134360005459
+    second: Orb6_sheet_58
+  - first:
+      213: 4812992365985816142
+    second: Orb6_sheet_59
+  - first:
+      213: 6209250704811234862
+    second: Orb6_sheet_60
+  - first:
+      213: -8747751948875258560
+    second: Orb6_sheet_61
+  - first:
+      213: 8249956164528640907
+    second: Orb6_sheet_62
+  - first:
+      213: -9106831076733585431
+    second: Orb6_sheet_63
+  - first:
+      213: -3563438793515664756
+    second: Orb6_sheet_64
+  - first:
+      213: -5715150625025487444
+    second: Orb6_sheet_65
+  - first:
+      213: 5170793494491590361
+    second: Orb6_sheet_66
+  - first:
+      213: -5521237827978233362
+    second: Orb6_sheet_67
+  - first:
+      213: 711299840210211384
+    second: Orb6_sheet_68
+  - first:
+      213: 5881867297958158868
+    second: Orb6_sheet_69
+  - first:
+      213: -1823665191314271283
+    second: Orb6_sheet_70
+  - first:
+      213: 3687776133255591201
+    second: Orb6_sheet_71
+  - first:
+      213: -2664984191042919201
+    second: Orb6_sheet_72
+  - first:
+      213: 7524872905795419202
+    second: Orb6_sheet_73
+  - first:
+      213: -350308833007797870
+    second: Orb6_sheet_74
+  - first:
+      213: 6640254458212448035
+    second: Orb6_sheet_75
+  - first:
+      213: 1040132386337582502
+    second: Orb6_sheet_76
+  - first:
+      213: -3239606111438171896
+    second: Orb6_sheet_77
+  - first:
+      213: -136976331000091384
+    second: Orb6_sheet_78
+  - first:
+      213: -8560288039689846969
+    second: Orb6_sheet_79
+  - first:
+      213: 6053914488973747856
+    second: Orb6_sheet_80
+  - first:
+      213: -1396488268287234041
+    second: Orb6_sheet_81
+  - first:
+      213: -8231812743015759750
+    second: Orb6_sheet_82
+  - first:
+      213: 3176752194040079283
+    second: Orb6_sheet_83
+  - first:
+      213: -7605229387336591469
+    second: Orb6_sheet_84
+  - first:
+      213: 4973350378731516157
+    second: Orb6_sheet_85
+  - first:
+      213: 6935038308421428838
+    second: Orb6_sheet_86
+  - first:
+      213: 6857455052464512298
+    second: Orb6_sheet_87
+  - first:
+      213: -402163113586834934
+    second: Orb6_sheet_88
+  - first:
+      213: 6836278174044733053
+    second: Orb6_sheet_89
+  - first:
+      213: -8794738889344194528
+    second: Orb6_sheet_90
+  - first:
+      213: -6666787778697190356
+    second: Orb6_sheet_91
+  - first:
+      213: 1305942978854023295
+    second: Orb6_sheet_92
+  - first:
+      213: 279357297857511296
+    second: Orb6_sheet_93
+  - first:
+      213: 4608498725606514016
+    second: Orb6_sheet_94
+  - first:
+      213: -7459915453870228642
+    second: Orb6_sheet_95
+  - first:
+      213: 7131082256046919465
+    second: Orb6_sheet_96
+  - first:
+      213: 7196829532514704072
+    second: Orb6_sheet_97
+  - first:
+      213: -3693156963305706431
+    second: Orb6_sheet_98
+  - first:
+      213: 3337177579464849285
+    second: Orb6_sheet_99
+  - first:
+      213: -6928423615620815711
+    second: Orb6_sheet_100
+  - first:
+      213: -2395053449626865818
+    second: Orb6_sheet_101
+  - first:
+      213: 923944418544174138
+    second: Orb6_sheet_102
+  - first:
+      213: -6396468797810989816
+    second: Orb6_sheet_103
+  - first:
+      213: -5870334226177141300
+    second: Orb6_sheet_104
+  - first:
+      213: 5620824117947038762
+    second: Orb6_sheet_105
+  - first:
+      213: 5415424288250104363
+    second: Orb6_sheet_106
+  - first:
+      213: 7199256683314714658
+    second: Orb6_sheet_107
+  - first:
+      213: -4648808035189077719
+    second: Orb6_sheet_108
+  - first:
+      213: 7235309198734400144
+    second: Orb6_sheet_109
+  - first:
+      213: -4736980386389883683
+    second: Orb6_sheet_110
+  - first:
+      213: 5582948338399267314
+    second: Orb6_sheet_111
+  - first:
+      213: -7935029402769181439
+    second: Orb6_sheet_112
+  - first:
+      213: 5075552161991597535
+    second: Orb6_sheet_113
+  - first:
+      213: -7619768088543065179
+    second: Orb6_sheet_114
+  - first:
+      213: -8097358582591766908
+    second: Orb6_sheet_115
+  - first:
+      213: -2108667636293578203
+    second: Orb6_sheet_116
+  - first:
+      213: -6963648722926444299
+    second: Orb6_sheet_117
+  - first:
+      213: -8646306023505857813
+    second: Orb6_sheet_118
+  - first:
+      213: 2647805778526758903
+    second: Orb6_sheet_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb6_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1930
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e397d196a9b0d5a0800000000000000
+      internalID: -6498490137233091616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1930
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004ad290df978c3d0800000000000000
+      internalID: -3186162608676953088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1930
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fa8e2808778980800000000000000
+      internalID: -8536722592121556575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1930
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5fba4d6a38dbd0800000000000000
+      internalID: -2605268143353930816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1929
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e0a96f7aeca43d0800000000000000
+      internalID: -3221535362638016965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1929
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c120307c3dcfb30800000000000000
+      internalID: 4322562594071256182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1929
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2a40d9ecc450410800000000000000
+      internalID: 1442643705923412670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1929
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd44e3b31dfec7fb0800000000000000
+      internalID: -4648577033432054565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1929
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d987cd772d4ce470800000000000000
+      internalID: 8425193834912647632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1928
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c360143da7962eb60800000000000000
+      internalID: 7773891883046078012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1928
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf9a25d2f04d1e30800000000000000
+      internalID: 4475805016378744749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1735
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a84eb80915d620800000000000000
+      internalID: 2798170268823495571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1736
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750f1bac8ab33420800000000000000
+      internalID: 2608633722506773881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1736
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f049729aaaa4abe0800000000000000
+      internalID: -1466859929037356810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1736
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc88523740c1ee070800000000000000
+      internalID: 8137472382142351564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1736
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bea4b56e58f36c90800000000000000
+      internalID: -7177620296781484366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1736
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb405f4a02df1c710800000000000000
+      internalID: 1711927650025800891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1736
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d39973a66373220800000000000000
+      internalID: 2465499150835858763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1736
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825295eb9f89f9090800000000000000
+      internalID: -8025527812543142616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1737
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d761aac74444c2420800000000000000
+      internalID: 2606533345280661117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1737
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7b5d818ba9f0e0800000000000000
+      internalID: -2235567167102026654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1737
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953ef7e5cf1c3fb10800000000000000
+      internalID: 2014166748026102617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1544
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f236f7cbdb10a0800000000000000
+      internalID: -6909687551394384937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1544
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad00692eabd3240800000000000000
+      internalID: 4773176662424607278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1544
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0b933970ebb8ed0800000000000000
+      internalID: -2410624235782688551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1543
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3722533697100ab0800000000000000
+      internalID: -5044005648781400260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1543
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6dbe1e02920c40800000000000000
+      internalID: 5477100686178872267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1543
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f893457b0fe49410800000000000000
+      internalID: 1483073009802778869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1543
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3682d566b6153cfd0800000000000000
+      internalID: -2322923461072312221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1543
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb773fd4d605d2c0800000000000000
+      internalID: -4407609148964373571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1543
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8afa1855b24e750800000000000000
+      internalID: 6333234622237747421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1543
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40868271100db7ee0800000000000000
+      internalID: -1262186567445223420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1543
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d878a38014255110800000000000000
+      internalID: 1248944125012113625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1351
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac9316a9bf5cda60800000000000000
+      internalID: 7700134713856597155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1351
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723e7b594bcb31a50800000000000000
+      internalID: 6490738971763008295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1351
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044bb42e8a0d638e0800000000000000
+      internalID: -1713953184398199744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1351
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20916b718175f8170800000000000000
+      internalID: 8182854808944122114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1351
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60553315ebb1a200800000000000000
+      internalID: 189639251870437482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1350
+        width: 139
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c16ebe253ca4df0800000000000000
+      internalID: -195128872924734431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1351
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea6f1d99147db90800000000000000
+      internalID: -7217227748929524030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1350
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7b8d6f95f2e6250800000000000000
+      internalID: 5939737021988255686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1351
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55c4fe28919fc460800000000000000
+      internalID: 7264184806780749150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1351
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f81295daf78b35e0800000000000000
+      internalID: -1928798504003430154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1351
+        width: 139
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a428783fcf53450800000000000000
+      internalID: 6068034195832326813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1158
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3988f31280d30b90800000000000000
+      internalID: -7276743315801208516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1158
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1451109c6610c5b0800000000000000
+      internalID: -5350251701786815462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1157
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df29d087f8c6b6d0800000000000000
+      internalID: -2974969538487439406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1157
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d6dc8b2117b9830800000000000000
+      internalID: 4078978212737936770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1157
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171fca95e5955d960800000000000000
+      internalID: 7626099805788107121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1157
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e33a4cbeef7e6a0800000000000000
+      internalID: -6419882455223550338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1157
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c275d49dd175e0800000000000000
+      internalID: -1913504735349783073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1157
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035fd93d2c633b080800000000000000
+      internalID: -9172927805621668560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1157
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d0948b93ca8840800000000000000
+      internalID: 5227205390228312779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1157
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45290ab2ad13ce50800000000000000
+      internalID: 6828334044766872907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1157
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48931366ed28cb790800000000000000
+      internalID: -7512986186651977340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 964
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbe7b32a2aaae960800000000000000
+      internalID: 7632099616497331164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 964
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd70aa5f2360c30800000000000000
+      internalID: 4325200522836958346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 964
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e3cdc6d088a7830800000000000000
+      internalID: 4069714804524990070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 964
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4e57ac3a2fa620800000000000000
+      internalID: 2787493134360005459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 964
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e50497e0f2bc240800000000000000
+      internalID: 4812992365985816142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 964
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261e953e90bb2650800000000000000
+      internalID: 6209250704811234862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 964
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452f0833fdb99680800000000000000
+      internalID: -8747751948875258560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 964
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b831647eb6bbd7270800000000000000
+      internalID: 8249956164528640907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 964
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e77ec1c2690e9180800000000000000
+      internalID: -9106831076733585431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 964
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8af6a51c4f1c8ec0800000000000000
+      internalID: -3563438793515664756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 964
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad018569c4bfa0b0800000000000000
+      internalID: -5715150625025487444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 771
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de6216894952c740800000000000000
+      internalID: 5170793494491590361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 771
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee978eeb27f9063b0800000000000000
+      internalID: -5521237827978233362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 771
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329580af6b0fd900800000000000000
+      internalID: 711299840210211384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 771
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41268ced42790a150800000000000000
+      internalID: 5881867297958158868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 770
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3d772bb2a01b6e0800000000000000
+      internalID: -1823665191314271283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 770
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125fcd1cadc9d2330800000000000000
+      internalID: 3687776133255591201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 771
+        width: 140
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4ead87ff2140bd0800000000000000
+      internalID: -2664984191042919201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 770
+        width: 140
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb5e11a08bd6860800000000000000
+      internalID: 7524872905795419202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 770
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29973eee8f3732bf0800000000000000
+      internalID: -350308833007797870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 770
+        width: 141
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327f4f78f3ce62c50800000000000000
+      internalID: 6640254458212448035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 770
+        width: 140
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade70ff4ea4f6e00800000000000000
+      internalID: 1040132386337582502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 577
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8011b83e76b9a03d0800000000000000
+      internalID: -3239606111438171896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 577
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d6a10b0cc591ef0800000000000000
+      internalID: -136976331000091384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 577
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ff24bd16fb33980800000000000000
+      internalID: -8560288039689846969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 578
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096eed71723d30450800000000000000
+      internalID: 6053914488973747856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 578
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003db3a15dae9ce0800000000000000
+      internalID: -1396488268287234041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 578
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70030b9ce9b2cd80800000000000000
+      internalID: -8231812743015759750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 578
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3a3311a47161c20800000000000000
+      internalID: 3176752194040079283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 578
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397d07c9a2cc47690800000000000000
+      internalID: -7605229387336591469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 578
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b8dbc1d3e40540800000000000000
+      internalID: 4973350378731516157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 578
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6666f2d19943e3060800000000000000
+      internalID: 6935038308421428838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 578
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dda51b9039a2f50800000000000000
+      internalID: 6857455052464512298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 386
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0244e867ca3b6af0800000000000000
+      internalID: -402163113586834934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 386
+        width: 142
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e31b577c65fde50800000000000000
+      internalID: 6836278174044733053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 386
+        width: 142
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286350a39fc2f580800000000000000
+      internalID: -8794738889344194528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 386
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24a6d166dfca73a0800000000000000
+      internalID: -6666787778697190356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 383
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7072875834af1210800000000000000
+      internalID: 1305942978854023295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 383
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fb5387bf970e300800000000000000
+      internalID: 279357297857511296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 383
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ddd9f8c2da4ff30800000000000000
+      internalID: 4608498725606514016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 382
+        width: 143
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b3e954b6e097890800000000000000
+      internalID: -7459915453870228642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 381
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f84cf9781b6f260800000000000000
+      internalID: 7131082256046919465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 381
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5492545640e360800000000000000
+      internalID: 7196829532514704072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 381
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c276e1f454fbcc0800000000000000
+      internalID: -3693156963305706431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 144
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5877660d359005e20800000000000000
+      internalID: 3337177579464849285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 188
+        width: 145
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a46e711e6b49df90800000000000000
+      internalID: -6928423615620815711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 188
+        width: 147
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66faaecb39f03ced0800000000000000
+      internalID: -2395053449626865818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 188
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c78bad8282dc00800000000000000
+      internalID: 923944418544174138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 189
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8052b91b48d2b37a0800000000000000
+      internalID: -6396468797810989816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 189
+        width: 147
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d4e7af12688ea0800000000000000
+      internalID: -5870334226177141300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 190
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7e2f31cd210e40800000000000000
+      internalID: 5620824117947038762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 192
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a8b21b2b3772b40800000000000000
+      internalID: 5415424288250104363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 192
+        width: 148
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22894d76fc5e8e360800000000000000
+      internalID: 7199256683314714658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 193
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c291f8bd1c7fb0800000000000000
+      internalID: -4648808035189077719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 193
+        width: 150
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a1ea6c16bf86460800000000000000
+      internalID: 7235309198734400144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd40d39af6dd24eb0800000000000000
+      internalID: -4736980386389883683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f945ad1fed9a7d40800000000000000
+      internalID: 5582948338399267314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105b9adbccc11e190800000000000000
+      internalID: -7935029402769181439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd9976cccbff6640800000000000000
+      internalID: 5075552161991597535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab88837b45214690800000000000000
+      internalID: -7619768088543065179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e38a1554760af80800000000000000
+      internalID: -8097358582591766908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 0
+        width: 153
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522db5df4f18cb2e0800000000000000
+      internalID: -2108667636293578203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 0
+        width: 151
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ed59a1662c5f90800000000000000
+      internalID: -6963648722926444299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 0
+        width: 149
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fc915b76220880800000000000000
+      internalID: -8646306023505857813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb6_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7605fa355eeb420800000000000000
+      internalID: 2647805778526758903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb6_sheet_0: -6498490137233091616
+      Orb6_sheet_1: -3186162608676953088
+      Orb6_sheet_10: 4475805016378744749
+      Orb6_sheet_100: -6928423615620815711
+      Orb6_sheet_101: -2395053449626865818
+      Orb6_sheet_102: 923944418544174138
+      Orb6_sheet_103: -6396468797810989816
+      Orb6_sheet_104: -5870334226177141300
+      Orb6_sheet_105: 5620824117947038762
+      Orb6_sheet_106: 5415424288250104363
+      Orb6_sheet_107: 7199256683314714658
+      Orb6_sheet_108: -4648808035189077719
+      Orb6_sheet_109: 7235309198734400144
+      Orb6_sheet_11: 2798170268823495571
+      Orb6_sheet_110: -4736980386389883683
+      Orb6_sheet_111: 5582948338399267314
+      Orb6_sheet_112: -7935029402769181439
+      Orb6_sheet_113: 5075552161991597535
+      Orb6_sheet_114: -7619768088543065179
+      Orb6_sheet_115: -8097358582591766908
+      Orb6_sheet_116: -2108667636293578203
+      Orb6_sheet_117: -6963648722926444299
+      Orb6_sheet_118: -8646306023505857813
+      Orb6_sheet_119: 2647805778526758903
+      Orb6_sheet_12: 2608633722506773881
+      Orb6_sheet_13: -1466859929037356810
+      Orb6_sheet_14: 8137472382142351564
+      Orb6_sheet_15: -7177620296781484366
+      Orb6_sheet_16: 1711927650025800891
+      Orb6_sheet_17: 2465499150835858763
+      Orb6_sheet_18: -8025527812543142616
+      Orb6_sheet_19: 2606533345280661117
+      Orb6_sheet_2: -8536722592121556575
+      Orb6_sheet_20: -2235567167102026654
+      Orb6_sheet_21: 2014166748026102617
+      Orb6_sheet_22: -6909687551394384937
+      Orb6_sheet_23: 4773176662424607278
+      Orb6_sheet_24: -2410624235782688551
+      Orb6_sheet_25: -5044005648781400260
+      Orb6_sheet_26: 5477100686178872267
+      Orb6_sheet_27: 1483073009802778869
+      Orb6_sheet_28: -2322923461072312221
+      Orb6_sheet_29: -4407609148964373571
+      Orb6_sheet_3: -2605268143353930816
+      Orb6_sheet_30: 6333234622237747421
+      Orb6_sheet_31: -1262186567445223420
+      Orb6_sheet_32: 1248944125012113625
+      Orb6_sheet_33: 7700134713856597155
+      Orb6_sheet_34: 6490738971763008295
+      Orb6_sheet_35: -1713953184398199744
+      Orb6_sheet_36: 8182854808944122114
+      Orb6_sheet_37: 189639251870437482
+      Orb6_sheet_38: -195128872924734431
+      Orb6_sheet_39: -7217227748929524030
+      Orb6_sheet_4: -3221535362638016965
+      Orb6_sheet_40: 5939737021988255686
+      Orb6_sheet_41: 7264184806780749150
+      Orb6_sheet_42: -1928798504003430154
+      Orb6_sheet_43: 6068034195832326813
+      Orb6_sheet_44: -7276743315801208516
+      Orb6_sheet_45: -5350251701786815462
+      Orb6_sheet_46: -2974969538487439406
+      Orb6_sheet_47: 4078978212737936770
+      Orb6_sheet_48: 7626099805788107121
+      Orb6_sheet_49: -6419882455223550338
+      Orb6_sheet_5: 4322562594071256182
+      Orb6_sheet_50: -1913504735349783073
+      Orb6_sheet_51: -9172927805621668560
+      Orb6_sheet_52: 5227205390228312779
+      Orb6_sheet_53: 6828334044766872907
+      Orb6_sheet_54: -7512986186651977340
+      Orb6_sheet_55: 7632099616497331164
+      Orb6_sheet_56: 4325200522836958346
+      Orb6_sheet_57: 4069714804524990070
+      Orb6_sheet_58: 2787493134360005459
+      Orb6_sheet_59: 4812992365985816142
+      Orb6_sheet_6: 1442643705923412670
+      Orb6_sheet_60: 6209250704811234862
+      Orb6_sheet_61: -8747751948875258560
+      Orb6_sheet_62: 8249956164528640907
+      Orb6_sheet_63: -9106831076733585431
+      Orb6_sheet_64: -3563438793515664756
+      Orb6_sheet_65: -5715150625025487444
+      Orb6_sheet_66: 5170793494491590361
+      Orb6_sheet_67: -5521237827978233362
+      Orb6_sheet_68: 711299840210211384
+      Orb6_sheet_69: 5881867297958158868
+      Orb6_sheet_7: -4648577033432054565
+      Orb6_sheet_70: -1823665191314271283
+      Orb6_sheet_71: 3687776133255591201
+      Orb6_sheet_72: -2664984191042919201
+      Orb6_sheet_73: 7524872905795419202
+      Orb6_sheet_74: -350308833007797870
+      Orb6_sheet_75: 6640254458212448035
+      Orb6_sheet_76: 1040132386337582502
+      Orb6_sheet_77: -3239606111438171896
+      Orb6_sheet_78: -136976331000091384
+      Orb6_sheet_79: -8560288039689846969
+      Orb6_sheet_8: 8425193834912647632
+      Orb6_sheet_80: 6053914488973747856
+      Orb6_sheet_81: -1396488268287234041
+      Orb6_sheet_82: -8231812743015759750
+      Orb6_sheet_83: 3176752194040079283
+      Orb6_sheet_84: -7605229387336591469
+      Orb6_sheet_85: 4973350378731516157
+      Orb6_sheet_86: 6935038308421428838
+      Orb6_sheet_87: 6857455052464512298
+      Orb6_sheet_88: -402163113586834934
+      Orb6_sheet_89: 6836278174044733053
+      Orb6_sheet_9: 7773891883046078012
+      Orb6_sheet_90: -8794738889344194528
+      Orb6_sheet_91: -6666787778697190356
+      Orb6_sheet_92: 1305942978854023295
+      Orb6_sheet_93: 279357297857511296
+      Orb6_sheet_94: 4608498725606514016
+      Orb6_sheet_95: -7459915453870228642
+      Orb6_sheet_96: 7131082256046919465
+      Orb6_sheet_97: 7196829532514704072
+      Orb6_sheet_98: -3693156963305706431
+      Orb6_sheet_99: 3337177579464849285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

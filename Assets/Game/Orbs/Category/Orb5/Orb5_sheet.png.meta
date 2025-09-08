@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: 40ee5df67d9af6f45864d3e6d70f9470
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2403413893330876125
+    second: orb5_sheet_0
+  - first:
+      213: -2433055851878945299
+    second: orb5_sheet_1
+  - first:
+      213: -6654261430523776709
+    second: orb5_sheet_2
+  - first:
+      213: 7520789583488540890
+    second: orb5_sheet_3
+  - first:
+      213: -5424510420943447666
+    second: orb5_sheet_4
+  - first:
+      213: 8390181137309423431
+    second: orb5_sheet_5
+  - first:
+      213: -5948179071279593518
+    second: orb5_sheet_6
+  - first:
+      213: -4621958966222010325
+    second: orb5_sheet_7
+  - first:
+      213: 8598597306969868849
+    second: orb5_sheet_8
+  - first:
+      213: -2011113184984288591
+    second: orb5_sheet_9
+  - first:
+      213: -2227922769984676760
+    second: orb5_sheet_10
+  - first:
+      213: 7217368562843193160
+    second: orb5_sheet_11
+  - first:
+      213: -8494496971000209255
+    second: orb5_sheet_12
+  - first:
+      213: -9164745255039199258
+    second: orb5_sheet_13
+  - first:
+      213: -4426467635242566876
+    second: orb5_sheet_14
+  - first:
+      213: -6567397974023131336
+    second: orb5_sheet_15
+  - first:
+      213: 4473575196724019201
+    second: orb5_sheet_16
+  - first:
+      213: -6336177290638385379
+    second: orb5_sheet_17
+  - first:
+      213: -7310824293615548373
+    second: orb5_sheet_18
+  - first:
+      213: 7672303853747014454
+    second: orb5_sheet_19
+  - first:
+      213: 3945215742425201187
+    second: orb5_sheet_20
+  - first:
+      213: 1970644409585855325
+    second: orb5_sheet_21
+  - first:
+      213: 2413727339216393350
+    second: orb5_sheet_22
+  - first:
+      213: -5486197009346096302
+    second: orb5_sheet_23
+  - first:
+      213: 7379899823463542960
+    second: orb5_sheet_24
+  - first:
+      213: 3751708583872011749
+    second: orb5_sheet_25
+  - first:
+      213: -3055715394184412551
+    second: orb5_sheet_26
+  - first:
+      213: 3768169900516494741
+    second: orb5_sheet_27
+  - first:
+      213: 3023596820314264512
+    second: orb5_sheet_28
+  - first:
+      213: 3210694120378279615
+    second: orb5_sheet_29
+  - first:
+      213: -2851847661112759395
+    second: orb5_sheet_30
+  - first:
+      213: 6587665437153265781
+    second: orb5_sheet_31
+  - first:
+      213: -7195189224144349471
+    second: orb5_sheet_32
+  - first:
+      213: -3965209423241069440
+    second: orb5_sheet_33
+  - first:
+      213: -6331115277595462410
+    second: orb5_sheet_34
+  - first:
+      213: 8671636077433140230
+    second: orb5_sheet_35
+  - first:
+      213: -1634578462626381682
+    second: orb5_sheet_36
+  - first:
+      213: -3281990652522725780
+    second: orb5_sheet_37
+  - first:
+      213: 1559133467481344475
+    second: orb5_sheet_38
+  - first:
+      213: 6840681920987931056
+    second: orb5_sheet_39
+  - first:
+      213: -920522392290670546
+    second: orb5_sheet_40
+  - first:
+      213: -644272647600495589
+    second: orb5_sheet_41
+  - first:
+      213: 8322992792887616736
+    second: orb5_sheet_42
+  - first:
+      213: -489875523552388110
+    second: orb5_sheet_43
+  - first:
+      213: -7452108706289433259
+    second: orb5_sheet_44
+  - first:
+      213: -4250306394149481815
+    second: orb5_sheet_45
+  - first:
+      213: -5370394663809552296
+    second: orb5_sheet_46
+  - first:
+      213: -6259814783765967908
+    second: orb5_sheet_47
+  - first:
+      213: 4609354344158069497
+    second: orb5_sheet_48
+  - first:
+      213: 318941263874285416
+    second: orb5_sheet_49
+  - first:
+      213: -2148941335395176143
+    second: orb5_sheet_50
+  - first:
+      213: -831916305574870780
+    second: orb5_sheet_51
+  - first:
+      213: 4446166509522352062
+    second: orb5_sheet_52
+  - first:
+      213: 6520435933457383473
+    second: orb5_sheet_53
+  - first:
+      213: 4754683784730509843
+    second: orb5_sheet_54
+  - first:
+      213: 4023170195887580079
+    second: orb5_sheet_55
+  - first:
+      213: 2260587848039493511
+    second: orb5_sheet_56
+  - first:
+      213: 647522582166502406
+    second: orb5_sheet_57
+  - first:
+      213: 5320287194369901456
+    second: orb5_sheet_58
+  - first:
+      213: -6912163860728737299
+    second: orb5_sheet_59
+  - first:
+      213: -124349332754145693
+    second: orb5_sheet_60
+  - first:
+      213: 1701672477478203320
+    second: orb5_sheet_61
+  - first:
+      213: 5856476308534334682
+    second: orb5_sheet_62
+  - first:
+      213: -662881207458734126
+    second: orb5_sheet_63
+  - first:
+      213: -5486060751306257993
+    second: orb5_sheet_64
+  - first:
+      213: -672599643369257169
+    second: orb5_sheet_65
+  - first:
+      213: 8944496988413003575
+    second: orb5_sheet_66
+  - first:
+      213: -2179278817044305816
+    second: orb5_sheet_67
+  - first:
+      213: 6663649434614197801
+    second: orb5_sheet_68
+  - first:
+      213: 4703120955661404259
+    second: orb5_sheet_69
+  - first:
+      213: -8198305195210183088
+    second: orb5_sheet_70
+  - first:
+      213: 3081171481473274971
+    second: orb5_sheet_71
+  - first:
+      213: 9203005364610991798
+    second: orb5_sheet_72
+  - first:
+      213: -3420561492495545305
+    second: orb5_sheet_73
+  - first:
+      213: -6842204068880738230
+    second: orb5_sheet_74
+  - first:
+      213: -8983544757457828373
+    second: orb5_sheet_75
+  - first:
+      213: 7219718352504944771
+    second: orb5_sheet_76
+  - first:
+      213: 4998396900558032148
+    second: orb5_sheet_77
+  - first:
+      213: 4164422877220778659
+    second: orb5_sheet_78
+  - first:
+      213: -8891387386854606622
+    second: orb5_sheet_79
+  - first:
+      213: -6384919056805048020
+    second: orb5_sheet_80
+  - first:
+      213: 7441722317280452633
+    second: orb5_sheet_81
+  - first:
+      213: 8061346452501069104
+    second: orb5_sheet_82
+  - first:
+      213: 831377789431649513
+    second: orb5_sheet_83
+  - first:
+      213: 8331877963712492800
+    second: orb5_sheet_84
+  - first:
+      213: 9078409461577441927
+    second: orb5_sheet_85
+  - first:
+      213: 9095837119701827735
+    second: orb5_sheet_86
+  - first:
+      213: -4923520734710993061
+    second: orb5_sheet_87
+  - first:
+      213: 1567628629035665399
+    second: orb5_sheet_88
+  - first:
+      213: 1735268205338841239
+    second: orb5_sheet_89
+  - first:
+      213: -7255126037139969907
+    second: orb5_sheet_90
+  - first:
+      213: 5123120296044421102
+    second: orb5_sheet_91
+  - first:
+      213: 6863912106249118982
+    second: orb5_sheet_92
+  - first:
+      213: -7699322223911076023
+    second: orb5_sheet_93
+  - first:
+      213: -7756329879223282896
+    second: orb5_sheet_94
+  - first:
+      213: 6209627524676027834
+    second: orb5_sheet_95
+  - first:
+      213: 5737402682268769146
+    second: orb5_sheet_96
+  - first:
+      213: -8260651306592048987
+    second: orb5_sheet_97
+  - first:
+      213: 6906024821712962935
+    second: orb5_sheet_98
+  - first:
+      213: -6524715169167286505
+    second: orb5_sheet_99
+  - first:
+      213: 4546567690282380751
+    second: orb5_sheet_100
+  - first:
+      213: -6773592944113269536
+    second: orb5_sheet_101
+  - first:
+      213: 6546089147257421136
+    second: orb5_sheet_102
+  - first:
+      213: 3006757249356564206
+    second: orb5_sheet_103
+  - first:
+      213: -1761167771778678295
+    second: orb5_sheet_104
+  - first:
+      213: 5766973857533369172
+    second: orb5_sheet_105
+  - first:
+      213: 3035264754027317468
+    second: orb5_sheet_106
+  - first:
+      213: -2582905680972415388
+    second: orb5_sheet_107
+  - first:
+      213: -7192491921224847539
+    second: orb5_sheet_108
+  - first:
+      213: 5948940209673506056
+    second: orb5_sheet_109
+  - first:
+      213: 3714946348197456899
+    second: orb5_sheet_110
+  - first:
+      213: -7142659504439248549
+    second: orb5_sheet_111
+  - first:
+      213: 7890363263302488268
+    second: orb5_sheet_112
+  - first:
+      213: 5378732712633724500
+    second: orb5_sheet_113
+  - first:
+      213: 7526174994706205759
+    second: orb5_sheet_114
+  - first:
+      213: -7593673684279669313
+    second: orb5_sheet_115
+  - first:
+      213: 6552626110538137051
+    second: orb5_sheet_116
+  - first:
+      213: 4271333667862008657
+    second: orb5_sheet_117
+  - first:
+      213: 1203705677103424995
+    second: orb5_sheet_118
+  - first:
+      213: 1506313826284230448
+    second: orb5_sheet_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb5_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1929
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c45fdd3f9e77e42be5d9cbf7fa734a
+      internalID: -840651659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1929
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eb3c088be625240afc6b0734c3fabe
+      internalID: 1331307600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1929
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8569bfb65ac2f042a252770abaa8076
+      internalID: -722096083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1928
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0777f452177e9924697a3f1b7c5fde9c
+      internalID: -1117868712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1928
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c733ce928c0d5b49b4de9d076d19e59
+      internalID: -1419439135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1928
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf33d067ef710d44957be57618727e9
+      internalID: 2125797570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1928
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21924c85666c2d342a51e8447338ebe7
+      internalID: 1424917393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1928
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91070609e0084c04baad830a9fd92381
+      internalID: 230648045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1928
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126de9710c4f2a243b80c14096d8ecef
+      internalID: 354065563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1928
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba57e8af5562d49936af0d6a1d7e4d
+      internalID: 1054111452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1928
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07622a064423b35468b90623123e4d54
+      internalID: 424509787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1735
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad2ec4970c262479074d255e4f3e20
+      internalID: -1477808140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1735
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f9c1676154e74488d87c966d1362d9
+      internalID: -2063527834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1735
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddce8a8bdae3604ebb92afdc913850d
+      internalID: 2088380423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1736
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e49820b94359499ba3c03a0223290
+      internalID: 795018173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1736
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93541598980edbf4291d9c90d749034b
+      internalID: 1446200811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1736
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc038e7f19a07b54e88cf02d288ad1bd
+      internalID: 1988267577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1736
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d4ae5ad06824438bfcaec95fb7730
+      internalID: 1601265021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1736
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d3a1f317d56c447b6113460fb8a7ea
+      internalID: -346873641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1736
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722eaa05d25c8ed40889533042659cdf
+      internalID: 539269730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1736
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ef3d0a8e59b4478dc4854ef11d7ca
+      internalID: -1820401959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1737
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7a65ded380dc4c82bef68fe0085cc
+      internalID: -658283486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1543
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b9992da817d445951dc08f6bae13a
+      internalID: 830016963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1544
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9defa98e22c940a4bb6e9c88d4dbc8e8
+      internalID: -405405683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1544
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d56314133069b4185640513b3e9ba3
+      internalID: 758472579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1544
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd3c8aed4eafd4b84fb46cc9024c8b
+      internalID: -1381460713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1544
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b1b41b552e6b498d6b28064a10cd3
+      internalID: -293133148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1544
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76127afacf090b342b53e949be7e3aee
+      internalID: 100339454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1544
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1838a88820f95242b71db4912cffa6e
+      internalID: 2006330824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1544
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347fee1170b37744fa6775bf4764fb33
+      internalID: 1926998391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1544
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b0e019befe384293465d7935c372f
+      internalID: 998090236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1544
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d58391138e24c4ea42b509cf71faf5
+      internalID: 1061557516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1544
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebd6e7872702014d952378f4373d3f7
+      internalID: 1939070211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1351
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c48417cdb09f4d8c116fbe3d96f3c
+      internalID: -2005809111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1351
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e91b75bcf1634c9d61c121bade945
+      internalID: -1744261161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1351
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f0c7ca847eea4ab36b34250b9f973
+      internalID: 1492719754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1351
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb46143627727b4ab9910c1000db7fd
+      internalID: -799780755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1351
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c4eb01f3f0c84fad6e79c5bc12ec6
+      internalID: 689569192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1351
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da775af8d1ef4479d89c3cb225a0b5
+      internalID: 668635901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1351
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab1e5bbebfe68444a71fcc57d68b17c
+      internalID: 1989030513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1351
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9bb81dd0c14ac4fbe8afc3382b762f
+      internalID: 884421708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1351
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbdd05863583664c8a699f3a02a2a65
+      internalID: -1844123551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1350
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95260033045c369448a42e61af74e6e7
+      internalID: -665722949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1350
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901305e95fa81f45bc3d8a2fa04ebf6
+      internalID: 1001161053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1157
+        width: 148
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b804d04af0924d804252d4811c5be
+      internalID: -1470959385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1157
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b485bf6d25e86e48876af7257ba058f
+      internalID: 1183584518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1158
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254cae6721796247b66356c1dc48114
+      internalID: -293430119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1158
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbefe211628cb36459c3746a2eb92b0c
+      internalID: 1223952041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1158
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c1c8d4bd00554aac32a47ee5d8207
+      internalID: 1944948386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1157
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadfd8d873676f3488da28f3722ccb4e
+      internalID: -1663022596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1157
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b135169d2c2549ae5a4fb0a9d74cf
+      internalID: -1512761056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1158
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9269e95704ad44a4bf41989c14a9f
+      internalID: -1094751647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1158
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486fcfdb6ff258499c41ae754b61164
+      internalID: 830571601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1158
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b8b7e220381f419067eb0f834226d
+      internalID: -570125178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1158
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0f2cf82adf89b4ea260fc49d16f68e
+      internalID: -1750418086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 965
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760bad720bb906e4ba7c4584ff012ef3
+      internalID: -1617774421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 966
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f692ca0a0135ac4f91676065d7ade69
+      internalID: 119620970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 965
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aa4a3e8070c534a8bfb25d848e66e7
+      internalID: 1357621281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 965
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6c0241a48c3b8438e5d88bb8a151a2
+      internalID: 140448304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 965
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb0edb7e937a54ba1ba72cd77b6964
+      internalID: -264920632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 965
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e37592fa6e324e907384fdd96b101
+      internalID: 1030422074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 966
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fc62ba13912304999d352069bbfcee
+      internalID: -1378715981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 966
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2b83ba78c7c240946dac466504d2f
+      internalID: 1198681136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 965
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f18acdd15b144a8f261720117f55e
+      internalID: -2078193507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 966
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e56b5c2f152b74cbb2fae0b236b249
+      internalID: -2104519243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 966
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4faa76420bcd9f45b3f128722b42ed8
+      internalID: -307829382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 773
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175874f14c6ccf84f835f4ae67d7b402
+      internalID: -1720187948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 772
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a720ba9cb979be4449912f27ba701c19
+      internalID: 1269963942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 772
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c997f03cdeff04a9776cba9c121e5e
+      internalID: 1708998482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 772
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639f50b59fe225d43b97ab17fb7e3172
+      internalID: -327003593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 772
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48243e5fc4f286e4090f6c1e7d80a44f
+      internalID: -1100528193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 772
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe8c33d605eee549a423bcfd64c4848
+      internalID: 967398293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 772
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe09779c83bf0d8438b1c6c177e8fbd9
+      internalID: 1889650011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 771
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b8baa4c313ff44a66e5133da6bbae
+      internalID: -778941065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 772
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af6a7ca46b99994a8360f0b899aedb7
+      internalID: -509451433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 772
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e40f530c15edb48abc8f80a054720d
+      internalID: 1912602360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 771
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d883d0e581a6d4abfa14d7c6865d72
+      internalID: 1691756809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 578
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd89ee8a03a3e448cc8d8bfc8f626f
+      internalID: -2058737673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 578
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2d75edddd5dc84ca6fd295771b12b7
+      internalID: -1838878121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 577
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07a9a913582b24418c59a5c353bc890
+      internalID: -1483630401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 578
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8eb0b89b30efe4ba07e707aee55098
+      internalID: -1087221176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 577
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8be0deee4162e4fb24ad87503038bc
+      internalID: 1062126155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 577
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d15f8975432084f9272eaf3cc3c575
+      internalID: -729734824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 577
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353afaa1991e959458d974826ece6533
+      internalID: -533027887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 577
+        width: 148
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d08244f5336448a07e2ea6384ef96
+      internalID: 442923852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 576
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad3c02163077634dba2ae560539efc6
+      internalID: 1619256017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 576
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c42985d1d4e6b4f9e3aedd95e4743d
+      internalID: -1205173988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 576
+        width: 148
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62204e70835b14cbd69e099bba89e4
+      internalID: 1360874360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 147
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9e3b5c45992e46ad5cdd7ad303262
+      internalID: -1125730552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 383
+        width: 148
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f34be7c5363d4593c84ef5317a5f8
+      internalID: 872730995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 383
+        width: 147
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b282243c9ba148a89cbf9d4d568ff
+      internalID: 1306685243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 384
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31201e3f6f8dec47895e0665ddb81bd
+      internalID: 902568661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 384
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b053a6457a1446a4ea24ebc34d4e3cc9
+      internalID: 417033018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 385
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad635be13a81a7042bff595adc54018a
+      internalID: 1396426702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 384
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b751438460af42bff0c5d677bfea8
+      internalID: -872874628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 385
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a264b23a086d44187017d3ccba620a
+      internalID: -2101101640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 386
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead768bf63074754aa1003101863c565
+      internalID: -1883838525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 386
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6339bf6771cd04883a02db80a34a32
+      internalID: 915379288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 386
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f157b5bd9bbe614e91c292b9cf73696
+      internalID: 1951516826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4683bdc05918ba4aab4fb08cbc65782
+      internalID: -957314692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 194
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf8b32fc6f0424782b80e09346f55a
+      internalID: -1759852887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab09ac04ac1e55449f61f21ad80a0dd
+      internalID: -133925018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 194
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27efa263475fc346bf968e0e114e5b3
+      internalID: 396956517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 194
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d1a00025dc69408c640f24624e7c5
+      internalID: 160462200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 194
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b637870551214bac19b4394867045
+      internalID: 1490920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 194
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c1b8f4fe9c11c4f8b0f89772ca981b
+      internalID: 1692059757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 193
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365590017f5397448d3f1ff0b53310e
+      internalID: -647035334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 193
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53215b2e34f6248b21a0ea07ecd39a
+      internalID: -116988850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 192
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3840f88d4d663c247becb757ee63f157
+      internalID: 1927208206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 192
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2b38ccc18ca44cae9f81e2b062be7
+      internalID: 1296184975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de4b8583e6d9947a7184d4a7bcf2b1
+      internalID: -788035461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee658843b4d7cde46acb67f6940b4236
+      internalID: 1369920730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd41a0bcc263b40a4b654cf234c811
+      internalID: 250786493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7caa3a0e9b5ed478a1e34cb8833df0
+      internalID: 1759628480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9462ede6261d4b9758d0d4803fb09
+      internalID: -941252269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373d9a1dc1ed74c4ba03ebc7447533e3
+      internalID: -1294830640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 0
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2812c5c22fd8c0340aad7b836769f0d3
+      internalID: 618745790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade41fb410060274694a66020a27e203
+      internalID: 1738677069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44079c6edea65454db3226b60f8d2cd8
+      internalID: -1983192216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb5_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5760a983ec03bd54990f0d05156ad918
+      internalID: 18656499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0eabd3db3dae3754d8ce21e9e28fc70c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb5_sheet_0: -840651659
+      Orb5_sheet_1: 1331307600
+      Orb5_sheet_10: 424509787
+      Orb5_sheet_100: -1759852887
+      Orb5_sheet_101: -133925018
+      Orb5_sheet_102: 396956517
+      Orb5_sheet_103: 160462200
+      Orb5_sheet_104: 1490920
+      Orb5_sheet_105: 1692059757
+      Orb5_sheet_106: -647035334
+      Orb5_sheet_107: -116988850
+      Orb5_sheet_108: 1927208206
+      Orb5_sheet_109: 1296184975
+      Orb5_sheet_11: -1477808140
+      Orb5_sheet_110: -788035461
+      Orb5_sheet_111: 1369920730
+      Orb5_sheet_112: 250786493
+      Orb5_sheet_113: 1759628480
+      Orb5_sheet_114: -941252269
+      Orb5_sheet_115: -1294830640
+      Orb5_sheet_116: 618745790
+      Orb5_sheet_117: 1738677069
+      Orb5_sheet_118: -1983192216
+      Orb5_sheet_119: 18656499
+      Orb5_sheet_12: -2063527834
+      Orb5_sheet_13: 2088380423
+      Orb5_sheet_14: 795018173
+      Orb5_sheet_15: 1446200811
+      Orb5_sheet_16: 1988267577
+      Orb5_sheet_17: 1601265021
+      Orb5_sheet_18: -346873641
+      Orb5_sheet_19: 539269730
+      Orb5_sheet_2: -722096083
+      Orb5_sheet_20: -1820401959
+      Orb5_sheet_21: -658283486
+      Orb5_sheet_22: 830016963
+      Orb5_sheet_23: -405405683
+      Orb5_sheet_24: 758472579
+      Orb5_sheet_25: -1381460713
+      Orb5_sheet_26: -293133148
+      Orb5_sheet_27: 100339454
+      Orb5_sheet_28: 2006330824
+      Orb5_sheet_29: 1926998391
+      Orb5_sheet_3: -1117868712
+      Orb5_sheet_30: 998090236
+      Orb5_sheet_31: 1061557516
+      Orb5_sheet_32: 1939070211
+      Orb5_sheet_33: -2005809111
+      Orb5_sheet_34: -1744261161
+      Orb5_sheet_35: 1492719754
+      Orb5_sheet_36: -799780755
+      Orb5_sheet_37: 689569192
+      Orb5_sheet_38: 668635901
+      Orb5_sheet_39: 1989030513
+      Orb5_sheet_4: -1419439135
+      Orb5_sheet_40: 884421708
+      Orb5_sheet_41: -1844123551
+      Orb5_sheet_42: -665722949
+      Orb5_sheet_43: 1001161053
+      Orb5_sheet_44: -1470959385
+      Orb5_sheet_45: 1183584518
+      Orb5_sheet_46: -293430119
+      Orb5_sheet_47: 1223952041
+      Orb5_sheet_48: 1944948386
+      Orb5_sheet_49: -1663022596
+      Orb5_sheet_5: 2125797570
+      Orb5_sheet_50: -1512761056
+      Orb5_sheet_51: -1094751647
+      Orb5_sheet_52: 830571601
+      Orb5_sheet_53: -570125178
+      Orb5_sheet_54: -1750418086
+      Orb5_sheet_55: -1617774421
+      Orb5_sheet_56: 119620970
+      Orb5_sheet_57: 1357621281
+      Orb5_sheet_58: 140448304
+      Orb5_sheet_59: -264920632
+      Orb5_sheet_6: 1424917393
+      Orb5_sheet_60: 1030422074
+      Orb5_sheet_61: -1378715981
+      Orb5_sheet_62: 1198681136
+      Orb5_sheet_63: -2078193507
+      Orb5_sheet_64: -2104519243
+      Orb5_sheet_65: -307829382
+      Orb5_sheet_66: -1720187948
+      Orb5_sheet_67: 1269963942
+      Orb5_sheet_68: 1708998482
+      Orb5_sheet_69: -327003593
+      Orb5_sheet_7: 230648045
+      Orb5_sheet_70: -1100528193
+      Orb5_sheet_71: 967398293
+      Orb5_sheet_72: 1889650011
+      Orb5_sheet_73: -778941065
+      Orb5_sheet_74: -509451433
+      Orb5_sheet_75: 1912602360
+      Orb5_sheet_76: 1691756809
+      Orb5_sheet_77: -2058737673
+      Orb5_sheet_78: -1838878121
+      Orb5_sheet_79: -1483630401
+      Orb5_sheet_8: 354065563
+      Orb5_sheet_80: -1087221176
+      Orb5_sheet_81: 1062126155
+      Orb5_sheet_82: -729734824
+      Orb5_sheet_83: -533027887
+      Orb5_sheet_84: 442923852
+      Orb5_sheet_85: 1619256017
+      Orb5_sheet_86: -1205173988
+      Orb5_sheet_87: 1360874360
+      Orb5_sheet_88: -1125730552
+      Orb5_sheet_89: 872730995
+      Orb5_sheet_9: 1054111452
+      Orb5_sheet_90: 1306685243
+      Orb5_sheet_91: 902568661
+      Orb5_sheet_92: 417033018
+      Orb5_sheet_93: 1396426702
+      Orb5_sheet_94: -872874628
+      Orb5_sheet_95: -2101101640
+      Orb5_sheet_96: -1883838525
+      Orb5_sheet_97: 915379288
+      Orb5_sheet_98: 1951516826
+      Orb5_sheet_99: -957314692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
