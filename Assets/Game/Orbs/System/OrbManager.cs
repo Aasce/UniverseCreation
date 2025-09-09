@@ -54,6 +54,16 @@ namespace Asce.Game.Orbs
             pool.Deactivate(orb);
         }
 
+        public void DespawnAll()
+        {
+            var pools = _pools.Values;
+            foreach (Pool<Orb> pool in pools)
+            {
+                if (pool == null) continue;
+                pool.Clear(isDeactive: true);
+            }
+        }
+
         private Pool<Orb> GetPool(int level)
         {
             if (_pools.TryGetValue(level, out Pool<Orb> pool))

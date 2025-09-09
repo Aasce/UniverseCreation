@@ -40,6 +40,7 @@ namespace Asce.Game.Players
 
         private void Update()
         {
+            if (GameManager.Instance.CurrentGameState != GameState.Playing) return;
             if (_currentOrb.IsNull())
             {
                 _dropCooldown.Update(Time.deltaTime);
@@ -49,11 +50,6 @@ namespace Asce.Game.Players
                     _dropCooldown.Reset();
                 }
             }
-
-            if (!_currentOrb.IsNull())
-            {
-                _currentOrb.transform.position = transform.position;
-            }
         }
 
         public void Move(float xPosition)
@@ -61,10 +57,16 @@ namespace Asce.Game.Players
             Vector3 newPosition = transform.position;
             newPosition.x = Mathf.Clamp(xPosition, _moveRange.x, _moveRange.y);
             transform.position = newPosition;
+
+            if (!_currentOrb.IsNull())
+            {
+                _currentOrb.transform.position = transform.position;
+            }
         }
 
         public void Drop()
         {
+            if (GameManager.Instance.CurrentGameState != GameState.Playing) return;
             if (_currentOrb.IsNull()) return;
             
             _currentOrb.Rigidbody.simulated = true;

@@ -1,3 +1,5 @@
+using Asce.Game.Orbs;
+using Asce.Game.UIs;
 using Asce.Managers;
 using System;
 using UnityEngine;
@@ -53,10 +55,36 @@ namespace Asce.Game
 
         public void EndGame()
         {
-            Debug.Log("Game Over!");
             CurrentGameState = GameState.GameOver;
-            // Implement additional game over logic here (e.g., show game over screen, reset game, etc.)
+            UIGameOverPanel gameOver = UIManager.Instance.PanelController.GetPanel<UIGameOverPanel>();
+            if (gameOver != null) gameOver.Show();
         }
 
+        public void NewGame()
+        {
+            OrbManager.Instance.DespawnAll();
+            CurrentGameState = GameState.Playing;
+        }
+
+        public void PauseGame()
+        {
+            if (CurrentGameState == GameState.Playing)
+            {
+                CurrentGameState = GameState.Paused;
+            }
+        }
+
+        public void ResumeGame()
+        {
+            if (CurrentGameState == GameState.Paused)
+            {
+                CurrentGameState = GameState.Playing;
+            }
+        }
+
+        public void BackToMenu()
+        {
+            Debug.Log("Returning to Main Menu...");
+        }
     }
 }
