@@ -1,7 +1,10 @@
 using Asce.Game.Orbs;
+using Asce.Game.Players;
+using Asce.Game.Scores;
 using Asce.Game.UIs;
 using Asce.Managers;
 using System;
+using System.Collections;
 using UnityEngine;
 
 namespace Asce.Game
@@ -63,6 +66,10 @@ namespace Asce.Game
         public void NewGame()
         {
             OrbManager.Instance.DespawnAll();
+            ScoreManager.Instance.ResetScore();
+            Player.Instance.Dropper.ResetDropper();
+            UIManager.Instance.HUDController.ResetHUD();
+
             CurrentGameState = GameState.Playing;
         }
 

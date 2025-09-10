@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Orb0 Information
   m_EditorClassIdentifier: 
   _level: 1
+  _icon: {fileID: 1914346118, guid: a9433e9f8d725454c9ef3ec3561f3b66, type: 3}

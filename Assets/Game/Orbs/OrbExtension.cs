@@ -9,6 +9,7 @@ namespace Asce.Game.Orbs
         public static bool CanMerge(this Orb orbA, Orb orbB)
         {
             if (orbA.IsNull() || orbB.IsNull()) return false;
+            if (orbA.IsMerged || orbB.IsMerged) return false;
             return orbA.Information.Level == orbB.Information.Level;
         }
     }

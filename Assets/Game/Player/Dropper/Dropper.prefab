@@ -49,9 +49,9 @@ MonoBehaviour:
   _currentOrb: {fileID: 0}
   _moveRange: {x: -1.7, y: 1.7}
   _dropCooldown:
-    _baseTime: 0.5
-    _currentTime: 0.5
-  _nextCount: 2
+    _baseTime: 0.4
+    _currentTime: 0.4
+  _nextCount: 3
   _nextRange: {x: 1, y: 3}
 --- !u!1 &5263149332510296788
 GameObject:

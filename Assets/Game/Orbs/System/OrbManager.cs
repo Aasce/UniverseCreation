@@ -1,3 +1,4 @@
+using Asce.Game.Scores;
 using Asce.Managers;
 using Asce.Managers.Pools;
 using Asce.Managers.Utils;
@@ -14,6 +15,35 @@ namespace Asce.Game.Orbs
 
         public SO_Orbs OrbsData => _orbsData;
         public int MaxLevel => _maxLevel;
+
+
+        public Orb Merge(Orb orbA, Orb orbB, Vector2 position)
+        {
+            if (orbA.IsNull() || orbB.IsNull()) return null;
+            if (!orbA.IsValid || !orbB.IsValid) 
+            {
+                GameManager.Instance.EndGame();
+                return null;
+            }
+            if (!OrbExtension.CanMerge(orbA, orbB)) return null;
+
+            orbA.IsMerged = true;
+            orbB.IsMerged = true;
+
+            int newLevel = orbA.Information.Level + 1;
+            Orb mergedOrb = this.Spawn(newLevel, position);
+
+            if (mergedOrb.IsNull()) return null;
+
+            this.Despawn(orbB);
+            this.Despawn(orbA);
+
+            ScoreManager.Instance.AddMergeOrbScore(orbA.Information.Level);
+
+            mergedOrb.IsValid = true;
+            return mergedOrb;
+        }
+
 
         public Orb Spawn(int level, Vector2 position = default)
         {

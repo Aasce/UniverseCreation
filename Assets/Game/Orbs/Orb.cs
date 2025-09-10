@@ -46,24 +46,8 @@ namespace Asce.Game.Orbs
             if (collision.contactCount <= 0) return;
             if (!collision.gameObject.CompareTag(gameObject.tag)) return;
             if (!collision.gameObject.TryGetComponent(out Orb otherOrb)) return;
-            if (otherOrb.IsMerged) return;
 
-            if (!this.IsValid) GameManager.Instance.EndGame();
-
-            if (!OrbExtension.CanMerge(this, otherOrb)) return;
-
-            this.IsMerged = true;
-            otherOrb.IsMerged = true;
-
-            int newLevel = Information.Level + 1;
-            Vector2 position = collision.GetContact(0).point;
-            Orb mergedOrb = OrbManager.Instance.Spawn(newLevel, position);
-
-            if (mergedOrb.IsNull()) return;
-
-            mergedOrb.IsValid = true;
-            OrbManager.Instance.Despawn(otherOrb);
-            OrbManager.Instance.Despawn(this);
+            OrbManager.Instance.Merge(this, otherOrb, collision.GetContact(0).point);
         }
     }
 }
