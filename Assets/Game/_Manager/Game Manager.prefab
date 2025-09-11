@@ -44,3 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9c4ce8f8214ef241abdb146e6125380, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _mainCamera: {fileID: 0}
+  _gameState: 0
+  _menuScene: Menu
+  _delay: 0.5

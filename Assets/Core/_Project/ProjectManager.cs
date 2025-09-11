@@ -1,16 +1,18 @@
+using Asce.Managers;
+using System;
 using UnityEngine;
 
-public class ProjectManager : MonoBehaviour
+public class ProjectManager : DontDestroyOnLoadSingleton<ProjectManager>
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public event Action<object> OnBeforeQuit;
 
-    // Update is called once per frame
-    void Update()
+    public void Quit()
     {
-        
+        OnBeforeQuit?.Invoke(this);
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#else
+        Application.Quit();
+#endif
     }
 }

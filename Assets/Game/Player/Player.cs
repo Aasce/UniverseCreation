@@ -28,7 +28,7 @@ namespace Asce.Game.Players
             Vector2 pointer = GameManager.Instance.MainCamera.ScreenToWorldPoint(Input.mousePosition);
             _dropper.Move(pointer.x);
 
-            bool isPointerOverUI = UIManager.Instance.IsPointerOverScreenUI();
+            bool isPointerOverUI = UIGameManager.Instance.IsPointerOverScreenUI();
             if (Input.GetMouseButtonDown(0))
             {
                 if (isPointerOverUI)_canDrop = false;
@@ -40,7 +40,7 @@ namespace Asce.Game.Players
                 if (!_dropper.CurrentOrb.IsNull())
                 {
                     if (!isPointerOverUI) 
-                        UIManager.Instance.HUDController.CancelDrop.Show();
+                        UIGameManager.Instance.HUDController.CancelDrop.Show();
                 }
             }
 
@@ -51,7 +51,7 @@ namespace Asce.Game.Players
                     _dropper.Drop();
                     _canDrop = false;
                 }
-                UIManager.Instance.HUDController.CancelDrop.Hide();
+                UIGameManager.Instance.HUDController.CancelDrop.Hide();
             }
 
         }

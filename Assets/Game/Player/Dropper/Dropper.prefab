@@ -48,6 +48,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _currentOrb: {fileID: 0}
   _moveRange: {x: -1.7, y: 1.7}
+  _torqueRange: {x: -0.02, y: 0.02}
   _dropCooldown:
     _baseTime: 0.4
     _currentTime: 0.4

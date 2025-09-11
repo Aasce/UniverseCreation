@@ -79,9 +79,9 @@ namespace Asce.Game.UIs
             RectTransform iconRect = _iconImage.rectTransform;
             RectTransform parentRect = iconRect.parent as RectTransform;
             if (parentRect == null)
-                parentRect = UIManager.Instance.Canvas.transform as RectTransform;
+                parentRect = UIGameManager.Instance.Canvas.transform as RectTransform;
 
-            Canvas canvas = UIManager.Instance.Canvas;
+            Canvas canvas = UIGameManager.Instance.Canvas;
             Camera canvasCamera = (canvas != null && canvas.renderMode != RenderMode.ScreenSpaceOverlay)
                 ? GameManager.Instance.MainCamera
                 : null;

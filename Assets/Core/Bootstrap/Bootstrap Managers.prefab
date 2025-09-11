@@ -44,3 +44,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74a86a3ec1c8e8840ba6b07f0e9090f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _sceneToLoad: Menu
+  _delay: 1

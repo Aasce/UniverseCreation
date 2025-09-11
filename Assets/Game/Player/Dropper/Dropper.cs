@@ -13,6 +13,7 @@ namespace Asce.Game.Players
 
         [Space]
         [SerializeField] private Vector2 _moveRange = new (-2f, 2f);
+        [SerializeField] private Vector2 _torqueRange = new (-0.25f, 0.25f);
         [SerializeField] private Cooldown _dropCooldown = new(0.5f);
 
         [Space]
@@ -36,6 +37,7 @@ namespace Asce.Game.Players
         }
 
         public Vector2 MoveRange => _moveRange;
+        public Vector2 TorqueRange => _torqueRange;
         public Cooldown DropCooldown => _dropCooldown;
 
         public int NextCount => _nextCount;
@@ -96,6 +98,9 @@ namespace Asce.Game.Players
             if (CurrentOrb.IsNull()) return;
 
             CurrentOrb.Rigidbody.simulated = true;
+            float torque = Random.Range(_torqueRange.x, _torqueRange.y);
+            CurrentOrb.Rigidbody.AddTorque(torque, ForceMode2D.Impulse);
+
             CurrentOrb.IsMerged = false;
             CurrentOrb = null;
 

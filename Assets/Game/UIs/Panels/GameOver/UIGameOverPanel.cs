@@ -1,3 +1,4 @@
+using Asce.Shared.UIs;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -24,7 +25,7 @@ namespace Asce.Game.UIs
 
         private void BackMenuButton_OnClicked()
         {
-            UIConfirmationPanel confirmation = UIManager.Instance.PanelController.GetPanel<UIConfirmationPanel>();
+            UIConfirmationPanel confirmation = UIGameManager.Instance.PanelController.GetPanel<UIConfirmationPanel>();
             if (confirmation != null)
             {
                 confirmation.SetDefault();

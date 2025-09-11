@@ -1,3 +1,4 @@
+using Asce.Shared.UIs;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -25,11 +26,11 @@ namespace Asce.Game.UIs
 
         private void BackMenuButton_OnClicked()
         {
-            UIConfirmationPanel confirmation = UIManager.Instance.PanelController.GetPanel<UIConfirmationPanel>();
+            UIConfirmationPanel confirmation = UIGameManager.Instance.PanelController.GetPanel<UIConfirmationPanel>();
             if (confirmation != null)
             {
                 confirmation.SetDefault();
-                confirmation.SetText("Back to Main Menu", "Are you sure you want to go back to the main menu? progress will be save.");
+                confirmation.SetText("Back to Main Menu", "Are you sure you want to go back to the main menu?\nProgress will be save.");
                 confirmation.SetYes(() =>
                 {
                     GameManager.Instance.BackToMenu();
@@ -41,11 +42,11 @@ namespace Asce.Game.UIs
 
         private void NewGameButton_OnClicked()
         {
-            UIConfirmationPanel confirmation = UIManager.Instance.PanelController.GetPanel<UIConfirmationPanel>();
+            UIConfirmationPanel confirmation = UIGameManager.Instance.PanelController.GetPanel<UIConfirmationPanel>();
             if (confirmation != null)
             {
                 confirmation.SetDefault();
-                confirmation.SetText("Start New Game", "Are you sure you want to start a new game? Unsaved progress will be lost.");
+                confirmation.SetText("Start New Game", "Are you sure you want to start a new game?\nUnsaved progress will be lost.");
                 confirmation.SetYes(() =>
                 {
                     GameManager.Instance.NewGame();

@@ -1,16 +1,36 @@
+using Asce.Managers;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class LoadingSceneManager : MonoBehaviour
+namespace Asce.Shared
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public class LoadingSceneManager : MonoBehaviourSingleton<LoadingSceneManager>
     {
-        
-    }
+        [SerializeField] private Slider _loadSlider;
+        public Slider LoadSlider => _loadSlider;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        private void OnEnable()
+        {
+            if (SceneLoader.Instance != null)
+            {
+                SceneLoader.Instance.OnLoadingProgress += UpdateProgress;
+            }
+        }
+
+        private void OnDisable()
+        {
+            if (SceneLoader.Instance != null)
+            {
+                SceneLoader.Instance.OnLoadingProgress -= UpdateProgress;
+            }
+        }
+
+        private void UpdateProgress(float progress)
+        {
+            if (_loadSlider != null)
+            {
+                _loadSlider.value = progress;
+            }
+        }
     }
 }

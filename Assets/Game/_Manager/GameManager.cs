@@ -4,7 +4,6 @@ using Asce.Game.Scores;
 using Asce.Game.UIs;
 using Asce.Managers;
 using System;
-using System.Collections;
 using UnityEngine;
 
 namespace Asce.Game
@@ -20,6 +19,9 @@ namespace Asce.Game
         [Header("State")]
         [SerializeField] private GameState _gameState = GameState.Init;
 
+        [Header("Settings")]
+        [SerializeField] private string _menuScene = "Menu";
+        [SerializeField] private float _delay = 0f;
 
         public event Action<object, GameState> OnGameStateChanged;
 
@@ -59,7 +61,7 @@ namespace Asce.Game
         public void EndGame()
         {
             CurrentGameState = GameState.GameOver;
-            UIGameOverPanel gameOver = UIManager.Instance.PanelController.GetPanel<UIGameOverPanel>();
+            UIGameOverPanel gameOver = UIGameManager.Instance.PanelController.GetPanel<UIGameOverPanel>();
             if (gameOver != null) gameOver.Show();
         }
 
@@ -68,7 +70,7 @@ namespace Asce.Game
             OrbManager.Instance.DespawnAll();
             ScoreManager.Instance.ResetScore();
             Player.Instance.Dropper.ResetDropper();
-            UIManager.Instance.HUDController.ResetHUD();
+            UIGameManager.Instance.HUDController.ResetHUD();
 
             CurrentGameState = GameState.Playing;
         }
@@ -91,7 +93,8 @@ namespace Asce.Game
 
         public void BackToMenu()
         {
-            Debug.Log("Returning to Main Menu...");
+            // Save game
+            SceneLoader.Instance.Load(_menuScene, isShowLoadingScene: true, delay: _delay);
         }
     }
 }
