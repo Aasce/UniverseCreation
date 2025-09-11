@@ -23,11 +23,13 @@ namespace Asce.Menu
 
         public void PlayGame()
         {
+            Shared.SharedData.isPlayAsNewGame = false;
             SceneLoader.Instance.Load(_mainGameScene, isShowLoadingScene: true, delay: _delay);
         }
 
         public void PlayNewGame()
         {
+            Shared.SharedData.isPlayAsNewGame = true;
             SceneLoader.Instance.Load(_mainGameScene, isShowLoadingScene: true, delay: _delay);
         }
 

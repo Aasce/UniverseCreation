@@ -28,7 +28,7 @@ namespace Asce.Game.Players
         public Orb CurrentOrb
         {
             get => _currentOrb;
-            private set
+            set
             {
                 if (_currentOrb == value) return;
                 _currentOrb = value;
@@ -44,12 +44,6 @@ namespace Asce.Game.Players
         public Vector2 NextRange => _nextRange;
         public Queue<int> NextQueue => _next;
 
-
-        private void Start()
-        {
-            // Initialize the next queue with random levels
-            this.ResetDropper();
-        }
 
         private void Update()
         {

@@ -1,4 +1,6 @@
 using Asce.Managers;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using UnityEngine;
 
 namespace Asce.Game.Scores
@@ -7,16 +9,20 @@ namespace Asce.Game.Scores
     {
         [SerializeField] private SO_ScoreDefinition _scoreDefinition;
         [SerializeField] private int _currentScore = 0;
+        [SerializeField] private int _bestScore = 0;
+        [SerializeField] private List<HistoryScore> _historyScores = new();
 
         public event System.Action<object, int> OnScoreChanged;
+        public event System.Action<object, int> OnBestScoreChanged;
 
 
         public SO_ScoreDefinition ScoreDefinition => _scoreDefinition;
+        public List<HistoryScore> HistoryScores => _historyScores;
 
         public int CurrentScore
         {
             get => _currentScore;
-            private set
+            set
             {
                 if (_currentScore != value)
                 {
@@ -24,6 +30,18 @@ namespace Asce.Game.Scores
                     OnScoreChanged?.Invoke(this, _currentScore);
                 }
             }
+        }
+        public int BestScore
+        {
+            get => _bestScore;
+            set
+            {
+                if (_bestScore != value)
+                {
+                    _bestScore = value;
+                    OnBestScoreChanged?.Invoke(this, _bestScore);
+                }
+            }   
         }
 
         public void AddScore(int scoreToAdd)
@@ -48,6 +66,16 @@ namespace Asce.Game.Scores
         public void ResetScore()
         {
             CurrentScore = 0;
+        }
+
+        public void AddScoreToHistory()
+        {
+            HistoryScore newScore = new(CurrentScore, System.DateTime.Now);
+            HistoryScores.Add(newScore);
+            if (BestScore < CurrentScore)
+            {
+                BestScore = CurrentScore;
+            }
         }
     }
 }

@@ -29,13 +29,13 @@ namespace Asce.Game.UIs
 
         public void OnPointerEnter(PointerEventData eventData)
         {
-            transform.DOScale(_zoomScale, _zoomDuration).SetEase(Ease.OutSine);
+            transform.DOScale(_zoomScale, _zoomDuration).SetEase(Ease.OutSine).SetLink(gameObject);
             _isCancel = true;
         }
 
         public void OnPointerExit(PointerEventData eventData)
         {
-            transform.DOScale(1f, _zoomDuration).SetEase(Ease.OutSine);
+            transform.DOScale(1f, _zoomDuration).SetEase(Ease.OutSine).SetLink(gameObject);
             _isCancel = false;
         }
 

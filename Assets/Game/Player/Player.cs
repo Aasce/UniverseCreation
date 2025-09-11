@@ -54,6 +54,10 @@ namespace Asce.Game.Players
                 UIGameManager.Instance.HUDController.CancelDrop.Hide();
             }
 
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                GameManager.Instance.EndGame();
+            }
         }
     }
 }

@@ -1,5 +1,6 @@
 using Asce.Game.Orbs;
 using Asce.Game.Players;
+using Asce.Game.SaveLoads;
 using Asce.Game.Scores;
 using Asce.Game.UIs;
 using Asce.Managers;
@@ -18,6 +19,9 @@ namespace Asce.Game
 
         [Header("State")]
         [SerializeField] private GameState _gameState = GameState.Init;
+
+        [Header("Auto Save")]
+        [SerializeField] private float _autoSaveInterval = 10f;
 
         [Header("Settings")]
         [SerializeField] private string _menuScene = "Menu";
@@ -55,21 +59,48 @@ namespace Asce.Game
 
         private void Start()
         {
-            CurrentGameState = GameState.Playing;
+            SaveLoadManager.Instance.LoadHistoryScore();
+            if (Shared.SharedData.isPlayAsNewGame) NewGame();
+            else StartGame();
+
+            InvokeRepeating(nameof(AutoSave), _autoSaveInterval, _autoSaveInterval);
+        }
+
+        protected override void OnDestroy()
+        {
+            this.CancelInvoke();
+            base.OnDestroy();
+        }
+
+        private void OnApplicationQuit()
+        {
+            SaveLoadManager.Instance.SaveCurrentGame();
         }
 
         public void EndGame()
         {
-            CurrentGameState = GameState.GameOver;
+            CurrentGameState = GameState.GameOver; 
+            ScoreManager.Instance.AddScoreToHistory();
+            SaveLoadManager.Instance.SaveHistoryScores();
+
             UIGameOverPanel gameOver = UIGameManager.Instance.PanelController.GetPanel<UIGameOverPanel>();
             if (gameOver != null) gameOver.Show();
         }
 
         public void NewGame()
         {
+            SaveLoadManager.Instance.ClearCurrentGame();
             OrbManager.Instance.DespawnAll();
             ScoreManager.Instance.ResetScore();
             Player.Instance.Dropper.ResetDropper();
+            UIGameManager.Instance.HUDController.ResetHUD();
+
+            CurrentGameState = GameState.Playing;
+        }
+
+        public void StartGame()
+        {
+            SaveLoadManager.Instance.LoadCurrentGame();
             UIGameManager.Instance.HUDController.ResetHUD();
 
             CurrentGameState = GameState.Playing;
@@ -85,6 +116,8 @@ namespace Asce.Game
 
         public void ResumeGame()
         {
+            // Save game
+            SaveLoadManager.Instance.SaveCurrentGame();
             if (CurrentGameState == GameState.Paused)
             {
                 CurrentGameState = GameState.Playing;
@@ -94,7 +127,20 @@ namespace Asce.Game
         public void BackToMenu()
         {
             // Save game
+            if (CurrentGameState == GameState.GameOver)
+            {
+                SaveLoadManager.Instance.ClearCurrentGame();
+                SaveLoadManager.Instance.SaveHistoryScores();
+            }
+            else SaveLoadManager.Instance.SaveCurrentGame();
+
             SceneLoader.Instance.Load(_menuScene, isShowLoadingScene: true, delay: _delay);
+        }
+
+        public void AutoSave()
+        {
+            // Save game
+            SaveLoadManager.Instance.SaveCurrentGame();
         }
     }
 }

@@ -1,6 +1,7 @@
 using Asce.Game.Scores;
 using Asce.Managers.UIs;
 using Asce.Managers.Utils;
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -40,20 +41,20 @@ namespace Asce.Game.UIs
 
             if (_bestScore != null)
             {
-
+                _bestScore.SetScore(ScoreManager.Instance.BestScore);
+                ScoreManager.Instance.OnBestScoreChanged += ScoreManager_OnBestScoreChanged;
             }
 
             if (_currentScore != null)
             {
-                _currentScore.SetScore(0);
+                _currentScore.SetScore(ScoreManager.Instance.CurrentScore);
                 ScoreManager.Instance.OnScoreChanged += ScoreManager_OnScoreChanged;
             }
         }
 
-
         public void ResetHUD()
         {
-            if (_currentScore != null) _currentScore.SetScore(0);
+            if (_currentScore != null) _currentScore.SetScore(ScoreManager.Instance.CurrentScore);
 
             foreach (UINextOrb nextOrb in _nextOrbs)
             {
@@ -70,6 +71,11 @@ namespace Asce.Game.UIs
                 settings.Show();
                 GameManager.Instance.PauseGame();
             }
+        }
+
+        private void ScoreManager_OnBestScoreChanged(object sender, int newScore)
+        {
+            _bestScore.SetScore(newScore);
         }
 
         private void ScoreManager_OnScoreChanged(object sender, int newScore)

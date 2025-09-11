@@ -94,6 +94,18 @@ namespace Asce.Game.Orbs
             }
         }
 
+        public List<Orb> GetAllActiveOrbs()
+        {
+            List<Orb> activeOrbs = new();
+            var pools = _pools.Values;
+            foreach (Pool<Orb> pool in pools)
+            {
+                if (pool == null) continue;
+                activeOrbs.AddRange(pool.Activities);
+            }
+            return activeOrbs;
+        }
+
         private Pool<Orb> GetPool(int level)
         {
             if (_pools.TryGetValue(level, out Pool<Orb> pool))
