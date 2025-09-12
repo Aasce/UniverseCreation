@@ -8,6 +8,7 @@ namespace Asce.Game.SaveLoads
     [Serializable]
     public class OrbsDataCollection
     {
+        public int mergerCount = 0;
         public List<OrbData> orbsData = new ();
 
         public OrbsDataCollection(List<Orb> orbs)

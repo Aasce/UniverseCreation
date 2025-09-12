@@ -50,7 +50,6 @@ namespace Asce.Game
             }
         }
 
-
         protected override void Awake()
         {
             base.Awake();
@@ -79,7 +78,8 @@ namespace Asce.Game
 
         public void EndGame()
         {
-            CurrentGameState = GameState.GameOver; 
+            CurrentGameState = GameState.GameOver;
+            PlaytimeManager.Instance.StopTimer();
             ScoreManager.Instance.AddScoreToHistory();
             SaveLoadManager.Instance.SaveHistoryScores();
 
@@ -89,9 +89,10 @@ namespace Asce.Game
 
         public void NewGame()
         {
-            SaveLoadManager.Instance.ClearCurrentGame();
+            SaveLoadManager.Instance.DeleteCurrentGame();
             OrbManager.Instance.DespawnAll();
             ScoreManager.Instance.ResetScore();
+            PlaytimeManager.Instance.StartTimer();
             Player.Instance.Dropper.ResetDropper();
             UIGameManager.Instance.HUDController.ResetHUD();
 
@@ -111,6 +112,7 @@ namespace Asce.Game
             if (CurrentGameState == GameState.Playing)
             {
                 CurrentGameState = GameState.Paused;
+                PlaytimeManager.Instance.StopTimer();
             }
         }
 
@@ -121,6 +123,7 @@ namespace Asce.Game
             if (CurrentGameState == GameState.Paused)
             {
                 CurrentGameState = GameState.Playing;
+                PlaytimeManager.Instance.ResumeTimer();
             }
         }
 
@@ -129,7 +132,7 @@ namespace Asce.Game
             // Save game
             if (CurrentGameState == GameState.GameOver)
             {
-                SaveLoadManager.Instance.ClearCurrentGame();
+                SaveLoadManager.Instance.DeleteCurrentGame();
                 SaveLoadManager.Instance.SaveHistoryScores();
             }
             else SaveLoadManager.Instance.SaveCurrentGame();

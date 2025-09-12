@@ -1,7 +1,9 @@
 using Asce.Game.Scores;
+using Asce.Game.VFXs;
 using Asce.Managers;
 using Asce.Managers.Pools;
 using Asce.Managers.Utils;
+using log4net.Core;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,9 +15,17 @@ namespace Asce.Game.Orbs
         [SerializeField] private int _maxLevel = 8;
         private readonly Dictionary<int, Pool<Orb>> _pools = new();
 
+        [Space]
+        [SerializeField] private int _mergedCount = 0;
+
         public SO_Orbs OrbsData => _orbsData;
         public int MaxLevel => _maxLevel;
 
+        public int MergedCount
+        {
+            get => _mergedCount;
+            set => _mergedCount = value;
+        }
 
         public Orb Merge(Orb orbA, Orb orbB, Vector2 position)
         {
@@ -38,8 +48,27 @@ namespace Asce.Game.Orbs
             this.Despawn(orbB);
             this.Despawn(orbA);
 
-            ScoreManager.Instance.AddMergeOrbScore(orbA.Information.Level);
+            int score = ScoreManager.Instance.AddMergeOrbScore(orbA.Information.Level);
+            OrbMergingVFXObject vfx = VFXManager.Instance.SpawnAndPlay("Orb Merging", position) as OrbMergingVFXObject;
+            if (vfx != null)
+            {
+                if (vfx.SparkParticles != null)
+                {
+                    var main = vfx.SparkParticles.main;
+                    main.startColor = orbA.Information.Color;
+                }
 
+                if (vfx.FlashParticles != null)
+                {
+                    var main = vfx.FlashParticles.main;
+                    main.startColor = orbA.Information.Color;
+                }
+            }
+
+            PopupTextVFXObject popup = VFXManager.Instance.SpawnAndPlay("Popup Text", position) as PopupTextVFXObject;
+            if (popup != null) popup.SetText(score.ToString());
+
+            MergedCount++;
             mergedOrb.IsValid = true;
             return mergedOrb;
         }
@@ -86,6 +115,7 @@ namespace Asce.Game.Orbs
 
         public void DespawnAll()
         {
+            MergedCount = 0;
             var pools = _pools.Values;
             foreach (Pool<Orb> pool in pools)
             {

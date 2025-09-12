@@ -25,6 +25,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2467999352985773908, guid: 5a336647980338e42af2fd15174da941, type: 3}
     - target: {fileID: 4781941537954577744, guid: 5c69314a68181734a88fe1c630020d2c, type: 3}
+      propertyPath: m_SortingOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4781941537954577744, guid: 5c69314a68181734a88fe1c630020d2c, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}

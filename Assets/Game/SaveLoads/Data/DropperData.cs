@@ -11,6 +11,7 @@ namespace Asce.Game.SaveLoads
         public int currentOrbLevel = 0;
         public List<int> nextOrbLevels;
         public float cooldown = 0f;
+        public int droppedCount = 0;
 
         public DropperData(Dropper dropper) 
         {
@@ -18,6 +19,7 @@ namespace Asce.Game.SaveLoads
             currentOrbLevel = dropper.CurrentOrb.IsNull() ? 0 : dropper.CurrentOrb.Information.Level;
             nextOrbLevels = new(dropper.NextQueue);
             cooldown = dropper.DropCooldown.CurrentTime;
+            droppedCount = dropper.DropCount;
         }
 
         public void Load(Dropper dropper)
@@ -43,6 +45,7 @@ namespace Asce.Game.SaveLoads
             }
 
             dropper.DropCooldown.CurrentTime = cooldown;
+            dropper.DropCount = droppedCount;
         }
     }
 }

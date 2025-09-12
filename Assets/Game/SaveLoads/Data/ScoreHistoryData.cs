@@ -9,12 +9,13 @@ namespace Asce.Game.SaveLoads
         public ScoreData bestScore;
         public List<ScoreData> scores = new ();
 
-        public void AddScore(int score, DateTime time)
-        {
-            ScoreData newScore = new (score, time);
-            scores.Add(newScore);
+        public int BestScore => bestScore == null ? 0 : bestScore.score;
 
-            if (bestScore == null || score > bestScore.score)
+        public void AddScore(ScoreData newScore)
+        {
+            if (newScore == null) return;
+            scores.Add(newScore);
+            if (bestScore == null || newScore.score > bestScore.score)
             {
                 bestScore = newScore;
             }

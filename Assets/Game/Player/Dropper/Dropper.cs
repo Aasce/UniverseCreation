@@ -1,15 +1,19 @@
 using Asce.Game.Orbs;
 using Asce.Game.Scores;
+using Asce.Game.VFXs;
 using Asce.Managers;
 using Asce.Managers.Utils;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
+using UnityEngine.UIElements;
 
 namespace Asce.Game.Players
 {
     public class Dropper : GameComponent
     {
         [SerializeField] private Orb _currentOrb;
+        [SerializeField] private int _dropCount = 0;
 
         [Space]
         [SerializeField] private Vector2 _moveRange = new (-2f, 2f);
@@ -34,6 +38,11 @@ namespace Asce.Game.Players
                 _currentOrb = value;
                 OnCurrentOrbChanged?.Invoke(this, _currentOrb);
             }
+        }
+        public int DropCount
+        {
+            get => _dropCount;
+            set => _dropCount = value;
         }
 
         public Vector2 MoveRange => _moveRange;
@@ -63,6 +72,7 @@ namespace Asce.Game.Players
         public void ResetDropper()
         {
             CurrentOrb = null;
+            DropCount = 0;
             _dropCooldown.Reset();
 
             _next.Clear();
@@ -97,8 +107,11 @@ namespace Asce.Game.Players
 
             CurrentOrb.IsMerged = false;
             CurrentOrb = null;
+            DropCount++;
 
-            ScoreManager.Instance.AddDroppedScore();
+            int score = ScoreManager.Instance.AddDroppedScore();
+            PopupTextVFXObject popup = VFXManager.Instance.SpawnAndPlay("Popup Text", transform.position) as PopupTextVFXObject;
+            if (popup != null) popup.SetText(score.ToString());
             OnDropped?.Invoke(this);
         }
 

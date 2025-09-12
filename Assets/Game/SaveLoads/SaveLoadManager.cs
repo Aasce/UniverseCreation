@@ -11,8 +11,9 @@ namespace Asce.Game.SaveLoads
     public class SaveLoadManager : MonoBehaviourSingleton<SaveLoadManager>
     {
         [SerializeField] private string _currentOrbsFile = "current/orbs.json";
-        [SerializeField] private string _currentScoreFile = "current/score.json";
         [SerializeField] private string _currentDropperFile = "current/dropper.json";
+        [SerializeField] private string _currentScoreFile = "current/score.json";
+        [SerializeField] private string _currentPlaytimeFile = "current/playtime.json";
 
         [Space]
         [SerializeField] private string _historyScoresFile = "history/scores.json";
@@ -20,22 +21,25 @@ namespace Asce.Game.SaveLoads
         public void SaveCurrentGame()
         {
             SaveCurrentOrbs();
-            SaveCurrentScore();
             SaveCurrentDropper();
+            SaveCurrentScore();
+            SaveCurrentPlaytime();
         }
 
         public void LoadCurrentGame()
         {
             LoadCurrentOrbs();
-            LoadCurrentScore();
             LoadCurrentDropper();
+            LoadCurrentScore();
+            LoadCurrentPlaytime();
         }
 
-        public void ClearCurrentGame()
+        public void DeleteCurrentGame()
         {
-            ClearCurrentOrbs();
-            ClearCurrentScore();
-            ClearCurrentDropper();
+            DeleteCurrentOrbs();
+            DeleteCurrentDropper();
+            DeleteCurrentScore();
+            DeleteCurrentPlaytime();
         }
 
         public void SaveCurrentOrbs()
@@ -43,8 +47,30 @@ namespace Asce.Game.SaveLoads
             if (OrbManager.Instance == null) return;
             List<Orb> activeOrbs = OrbManager.Instance.GetAllActiveOrbs();
             OrbsDataCollection orbsData = new(activeOrbs);
+            orbsData.mergerCount = OrbManager.Instance.MergedCount;
             SaveLoadSystem.Save(orbsData, _currentOrbsFile);
         }
+        public void SaveCurrentDropper()
+        {
+            if (Players.Player.Instance == null) return;
+            if (Players.Player.Instance.Dropper == null) return;
+
+            DropperData dropperData = new (Players.Player.Instance.Dropper);
+            SaveLoadSystem.Save(dropperData, _currentDropperFile);
+        }
+        public void SaveCurrentScore()
+        {
+            if (ScoreManager.Instance == null) return;
+            CurrentScoreData current = new (ScoreManager.Instance.CurrentScore);
+            SaveLoadSystem.Save(current, _currentScoreFile);
+        }
+        public void SaveCurrentPlaytime()
+        {
+            if (PlaytimeManager.Instance == null) return;
+            PlaytimeData playtimeData = new(PlaytimeManager.Instance.Playtime);
+            SaveLoadSystem.Save(playtimeData, _currentPlaytimeFile);
+        }
+
 
         public void LoadCurrentOrbs()
         {
@@ -61,55 +87,42 @@ namespace Asce.Game.SaveLoads
                 if (orb.IsNull()) continue;
                 orb.IsValid = orbData.isValid;
             }
+            OrbManager.Instance.MergedCount = orbsData.mergerCount;
         }
-
-        public void ClearCurrentOrbs()
-        {
-            SaveLoadSystem.Clear(_currentOrbsFile);
-        }
-
-        public void SaveCurrentScore()
-        {
-            if (ScoreManager.Instance == null) return;
-            CurrentScoreData current = new (ScoreManager.Instance.CurrentScore);
-            SaveLoadSystem.Save(current, _currentScoreFile);
-        }
-
-        public void LoadCurrentScore()
-        {
-            if (ScoreManager.Instance == null) return;
-            CurrentScoreData current = SaveLoadSystem.Load<CurrentScoreData>(_currentScoreFile);
-            if (current == null) return;
-            ScoreManager.Instance.CurrentScore = current.score;
-        }
-
-        public void ClearCurrentScore()
-        {
-            SaveLoadSystem.Clear(_currentScoreFile);
-        }
-
-        public void SaveCurrentDropper()
-        {
-            if (Players.Player.Instance == null) return;
-            if (Players.Player.Instance.Dropper == null) return;
-
-            DropperData dropperData = new (Players.Player.Instance.Dropper);
-            SaveLoadSystem.Save(dropperData, _currentDropperFile);
-        }
-
         public void LoadCurrentDropper()
         {
             if (Players.Player.Instance == null) return;
             if (Players.Player.Instance.Dropper == null) return;
             DropperData dropperData = SaveLoadSystem.Load<DropperData>(_currentDropperFile);
-            if (dropperData == null) return;
-            dropperData.Load(Players.Player.Instance.Dropper);
+
+            if (dropperData == null) Players.Player.Instance.Dropper.ResetDropper();
+            else dropperData.Load(Players.Player.Instance.Dropper);
+        }
+        public void LoadCurrentScore()
+        {
+            if (ScoreManager.Instance == null) return;
+            CurrentScoreData current = SaveLoadSystem.Load<CurrentScoreData>(_currentScoreFile);
+            if (current == null) ScoreManager.Instance.CurrentScore = 0;
+            else ScoreManager.Instance.CurrentScore = current.score;
+        }
+        public void LoadCurrentPlaytime()
+        {
+            if (PlaytimeManager.Instance == null) return;
+            PlaytimeData playtimeData = SaveLoadSystem.Load<PlaytimeData>(_currentPlaytimeFile);
+            if (playtimeData == null) PlaytimeManager.Instance.StartTimer();
+            else
+            {
+                PlaytimeManager.Instance.Playtime = playtimeData.playtime;
+                PlaytimeManager.Instance.ResumeTimer();
+            }
         }
 
-        public void ClearCurrentDropper()
-        {
-            SaveLoadSystem.Clear(_currentDropperFile);
-        }
+
+        public void DeleteCurrentOrbs() => SaveLoadSystem.Delete(_currentOrbsFile);
+        public void DeleteCurrentDropper() => SaveLoadSystem.Delete(_currentDropperFile);
+        public void DeleteCurrentScore() => SaveLoadSystem.Delete(_currentScoreFile);
+        public void DeleteCurrentPlaytime() => SaveLoadSystem.Delete(_currentPlaytimeFile);
+
 
         #region History Scores
         public void LoadHistoryScore()
@@ -117,12 +130,11 @@ namespace Asce.Game.SaveLoads
             ScoreHistoryData historyData = SaveLoadSystem.Load<ScoreHistoryData>(_historyScoresFile);
             historyData ??= new ScoreHistoryData();
 
-            ScoreManager.Instance.BestScore = historyData.bestScore.score;
+            ScoreManager.Instance.BestScore = historyData.BestScore;
             foreach (ScoreData scoreData in historyData.scores)
             {
                 if (scoreData == null) continue;
-                HistoryScore historyScore = new(scoreData.score, scoreData.time);
-                ScoreManager.Instance.HistoryScores.Add(historyScore);
+                ScoreManager.Instance.HistoryScores.Add(scoreData.Create());
             }
         }
 
@@ -132,7 +144,8 @@ namespace Asce.Game.SaveLoads
             foreach (HistoryScore historyScore in ScoreManager.Instance.HistoryScores)
             {
                 if (historyScore == null) continue;
-                historyData.AddScore(historyScore.Score, historyScore.Time);
+                ScoreData scoreData = new(historyScore);
+                historyData.AddScore(scoreData);
             }
             SaveLoadSystem.Save(historyData, _historyScoresFile);
         }

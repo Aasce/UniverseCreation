@@ -49,18 +49,20 @@ namespace Asce.Game.Scores
             CurrentScore += scoreToAdd;
         }
 
-        public void AddMergeOrbScore(int level)
+        public int AddMergeOrbScore(int level)
         {
-            if (ScoreDefinition == null) return;
+            if (ScoreDefinition == null) return 0;
             int scoreToAdd = ScoreDefinition.GetOrbMergedScore(level);
             this.AddScore(scoreToAdd);
+            return scoreToAdd;
         }
 
-        public void AddDroppedScore()
+        public int AddDroppedScore()
         {
-            if (ScoreDefinition == null) return;
+            if (ScoreDefinition == null) return 0;
             int scoreToAdd = ScoreDefinition.DropScore;
             this.AddScore(scoreToAdd);
+            return scoreToAdd;
         }
 
         public void ResetScore()
@@ -70,7 +72,15 @@ namespace Asce.Game.Scores
 
         public void AddScoreToHistory()
         {
-            HistoryScore newScore = new(CurrentScore, System.DateTime.Now);
+            HistoryScore newScore = new()
+            {
+                Score = CurrentScore,
+                Time = System.DateTime.Now,
+                Playtime = PlaytimeManager.Instance == null ? 0f : PlaytimeManager.Instance.Playtime,
+                DroppedCount = Players.Player.Instance.Dropper.DropCount,
+                MergedCount = Orbs.OrbManager.Instance.MergedCount,
+            };
+
             HistoryScores.Add(newScore);
             if (BestScore < CurrentScore)
             {

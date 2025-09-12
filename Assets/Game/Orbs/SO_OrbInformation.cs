@@ -9,7 +9,12 @@ namespace Asce.Game.Orbs
         [SerializeField, Min(0)] private int _level = 0;
         [SerializeField, SpritePreview] private Sprite _icon;
 
+        [Space]
+        [SerializeField, ColorUsage(showAlpha: true)] private Color _color = Color.white;
+
         public int Level => _level;
         public Sprite Icon => _icon;
+
+        public Color Color => _color;
     }
 }

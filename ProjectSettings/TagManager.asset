@@ -48,5 +48,8 @@ TagManager:
   - name: Orb
     uniqueID: 1060985027
     locked: 0
+  - name: Front
+    uniqueID: 898494765
+    locked: 0
   m_RenderingLayers:
   - Default

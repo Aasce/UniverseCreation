@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _level: 2
   _icon: {fileID: 2467999352985773908, guid: 5a336647980338e42af2fd15174da941, type: 3}
+  _color: {r: 0.66569453, g: 0.90188676, b: 0.31140614, a: 1}

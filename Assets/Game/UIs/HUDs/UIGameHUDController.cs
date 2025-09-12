@@ -14,6 +14,8 @@ namespace Asce.Game.UIs
         [SerializeField] private UIScore _bestScore;
         [SerializeField] private UIScore _currentScore;
 
+        [Space]
+        [SerializeField] private UIPlaytime _playtime;
         [SerializeField] private List<UINextOrb> _nextOrbs = new();
 
         [Header("Bottom UI")]
@@ -23,6 +25,8 @@ namespace Asce.Game.UIs
 
         public UIScore BestScore => _bestScore;
         public UIScore CurrentScore => _currentScore;
+
+        public UIPlaytime Playtime => _playtime;
         public List<UINextOrb> NextOrbs => _nextOrbs;
 
         public Button PauseButton => _pauseButton;
@@ -31,6 +35,7 @@ namespace Asce.Game.UIs
         protected override void RefReset()
         {
             base.RefReset();
+            this.LoadComponent(out _playtime);
             this.LoadComponent(out _cancelDrop);
         }
 
