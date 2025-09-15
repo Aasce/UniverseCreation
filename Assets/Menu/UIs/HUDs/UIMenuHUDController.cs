@@ -33,7 +33,7 @@ namespace Asce.Menu.UIs
 
         private void SettingsButton_OnClick()
         {
-            UISettingsPanel settings = UIMenuManager.Instance.PanelController.GetPanel<UISettingsPanel>();
+            UIMenuSettingsPanel settings = UIMenuManager.Instance.PanelController.GetPanel<UIMenuSettingsPanel>();
             if (settings != null) settings.Show();
         }
         private void InfoButton_OnClick()

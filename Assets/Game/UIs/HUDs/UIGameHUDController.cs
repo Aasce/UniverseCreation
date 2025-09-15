@@ -70,7 +70,7 @@ namespace Asce.Game.UIs
 
         private void PauseButton_OnClicked()
         {
-            UISettingsPanel settings = UIGameManager.Instance.PanelController.GetPanel<UISettingsPanel>();
+            UIGameSettingsPanel settings = UIGameManager.Instance.PanelController.GetPanel<UIGameSettingsPanel>();
             if (settings != null)
             {
                 settings.Show();

@@ -127,6 +127,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 994050760664807929, guid: b97f61993ee8b34469cb3b42d260c0d6, type: 3}
       insertIndex: -1
       addedObject: {fileID: 6219468082650498993}
+    - targetCorrespondingSourceObject: {fileID: 994050760664807929, guid: b97f61993ee8b34469cb3b42d260c0d6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 613104752501330041}
   m_SourcePrefab: {fileID: 100100000, guid: b97f61993ee8b34469cb3b42d260c0d6, type: 3}
 --- !u!114 &1680765340124312535 stripped
 MonoBehaviour:
@@ -159,3 +162,17 @@ MonoBehaviour:
   _button: {fileID: 1680765340124312535}
   _zoomScale: 1.05
   _zoomDuration: 0.1
+--- !u!114 &613104752501330041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611460711307107900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d7bb60f2da4434aa35bdf880ad9b86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _button: {fileID: 1680765340124312535}
+  _soundName: Button Click

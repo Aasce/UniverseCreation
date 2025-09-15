@@ -4,6 +4,7 @@ using Asce.Game.SaveLoads;
 using Asce.Game.Scores;
 using Asce.Game.UIs;
 using Asce.Managers;
+using Asce.Shared.Audios;
 using System;
 using UnityEngine;
 
@@ -26,6 +27,12 @@ namespace Asce.Game
         [Header("Settings")]
         [SerializeField] private string _menuScene = "Menu";
         [SerializeField] private float _delay = 0f;
+
+        [Space]
+        [SerializeField] private string _backgroundMusic = "Background";
+        [SerializeField] private string _gameOverSFX = "Game Over";
+        [SerializeField, Min(0f)] private float _fadeDelay = 0.5f;
+
 
         public event Action<object, GameState> OnGameStateChanged;
 
@@ -58,9 +65,14 @@ namespace Asce.Game
 
         private void Start()
         {
-            SaveLoadManager.Instance.LoadHistoryScore();
+            GameSaveLoadManager.Instance.LoadHistoryScore();
             if (Shared.SharedData.isPlayAsNewGame) NewGame();
             else StartGame();
+
+            if (!AudioManager.Instance.IsPlayingMusic(_backgroundMusic))
+            {
+                AudioManager.Instance.PlayMusic(_backgroundMusic);
+            }
 
             InvokeRepeating(nameof(AutoSave), _autoSaveInterval, _autoSaveInterval);
         }
@@ -73,7 +85,7 @@ namespace Asce.Game
 
         private void OnApplicationQuit()
         {
-            SaveLoadManager.Instance.SaveCurrentGame();
+            GameSaveLoadManager.Instance.SaveCurrentGame();
         }
 
         public void EndGame()
@@ -81,7 +93,10 @@ namespace Asce.Game
             CurrentGameState = GameState.GameOver;
             PlaytimeManager.Instance.StopTimer();
             ScoreManager.Instance.AddScoreToHistory();
-            SaveLoadManager.Instance.SaveHistoryScores();
+            GameSaveLoadManager.Instance.SaveHistoryScores();
+
+            AudioManager.Instance.StopMusic(fadeDuration: _fadeDelay);
+            AudioManager.Instance.PlaySFX(_gameOverSFX, delay: _fadeDelay);
 
             UIGameOverPanel gameOver = UIGameManager.Instance.PanelController.GetPanel<UIGameOverPanel>();
             if (gameOver != null) gameOver.Show();
@@ -89,19 +104,24 @@ namespace Asce.Game
 
         public void NewGame()
         {
-            SaveLoadManager.Instance.DeleteCurrentGame();
+            GameSaveLoadManager.Instance.DeleteCurrentGame();
             OrbManager.Instance.DespawnAll();
             ScoreManager.Instance.ResetScore();
             PlaytimeManager.Instance.StartTimer();
             Player.Instance.Dropper.ResetDropper();
             UIGameManager.Instance.HUDController.ResetHUD();
 
+            if (!AudioManager.Instance.IsPlayingMusic(_backgroundMusic))
+            {
+                AudioManager.Instance.PlayMusic(_backgroundMusic);
+            }
+
             CurrentGameState = GameState.Playing;
         }
 
         public void StartGame()
         {
-            SaveLoadManager.Instance.LoadCurrentGame();
+            GameSaveLoadManager.Instance.LoadCurrentGame();
             UIGameManager.Instance.HUDController.ResetHUD();
 
             CurrentGameState = GameState.Playing;
@@ -119,7 +139,7 @@ namespace Asce.Game
         public void ResumeGame()
         {
             // Save game
-            SaveLoadManager.Instance.SaveCurrentGame();
+            GameSaveLoadManager.Instance.SaveCurrentGame();
             if (CurrentGameState == GameState.Paused)
             {
                 CurrentGameState = GameState.Playing;
@@ -132,10 +152,10 @@ namespace Asce.Game
             // Save game
             if (CurrentGameState == GameState.GameOver)
             {
-                SaveLoadManager.Instance.DeleteCurrentGame();
-                SaveLoadManager.Instance.SaveHistoryScores();
+                GameSaveLoadManager.Instance.DeleteCurrentGame();
+                GameSaveLoadManager.Instance.SaveHistoryScores();
             }
-            else SaveLoadManager.Instance.SaveCurrentGame();
+            else GameSaveLoadManager.Instance.SaveCurrentGame();
 
             SceneLoader.Instance.Load(_menuScene, isShowLoadingScene: true, delay: _delay);
         }
@@ -143,7 +163,7 @@ namespace Asce.Game
         public void AutoSave()
         {
             // Save game
-            SaveLoadManager.Instance.SaveCurrentGame();
+            GameSaveLoadManager.Instance.SaveCurrentGame();
         }
     }
 }

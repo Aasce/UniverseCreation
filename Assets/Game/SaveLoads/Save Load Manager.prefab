@@ -41,9 +41,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 7926759366803517277}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c31496722133e542a463cfb70b006b7, type: 3}
+  m_Script: {fileID: 11500000, guid: 8e79bf769c4331b45a81c38d0100585f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _orbsFile: current/orbs.json
-  _currentScoreFile: current/score.json
-  _scoreHistoryFile: history/scores.json
+  _currentOrbsFile: game/current_orbs.json
+  _currentDropperFile: game/current_dropper.json
+  _currentScoreFile: game/current_score.json
+  _currentPlaytimeFile: game/current_playtime.json
+  _historyScoresFile: game/history_scores.json

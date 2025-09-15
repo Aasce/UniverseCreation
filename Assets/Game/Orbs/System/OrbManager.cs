@@ -3,6 +3,7 @@ using Asce.Game.VFXs;
 using Asce.Managers;
 using Asce.Managers.Pools;
 using Asce.Managers.Utils;
+using Asce.Shared.Audios;
 using log4net.Core;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,6 +18,9 @@ namespace Asce.Game.Orbs
 
         [Space]
         [SerializeField] private int _mergedCount = 0;
+
+        [Space]
+        [SerializeField] private string _mergeSoundName = "Merge";
 
         public SO_Orbs OrbsData => _orbsData;
         public int MaxLevel => _maxLevel;
@@ -48,7 +52,16 @@ namespace Asce.Game.Orbs
             this.Despawn(orbB);
             this.Despawn(orbA);
 
+            // Play merge SFX
+            AudioManager.Instance.PlaySFX(_mergeSoundName);
+
+
+            // Add score and pop up text
             int score = ScoreManager.Instance.AddMergeOrbScore(orbA.Information.Level);
+            PopupTextVFXObject popup = VFXManager.Instance.SpawnAndPlay("Popup Text", position) as PopupTextVFXObject;
+            if (popup != null) popup.SetText(score.ToString());
+
+            // Spawn VFX
             OrbMergingVFXObject vfx = VFXManager.Instance.SpawnAndPlay("Orb Merging", position) as OrbMergingVFXObject;
             if (vfx != null)
             {
@@ -65,8 +78,6 @@ namespace Asce.Game.Orbs
                 }
             }
 
-            PopupTextVFXObject popup = VFXManager.Instance.SpawnAndPlay("Popup Text", position) as PopupTextVFXObject;
-            if (popup != null) popup.SetText(score.ToString());
 
             MergedCount++;
             mergedOrb.IsValid = true;

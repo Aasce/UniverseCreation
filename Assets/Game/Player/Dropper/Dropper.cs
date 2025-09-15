@@ -3,6 +3,7 @@ using Asce.Game.Scores;
 using Asce.Game.VFXs;
 using Asce.Managers;
 using Asce.Managers.Utils;
+using Asce.Shared.Audios;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SocialPlatforms.Impl;
@@ -24,6 +25,9 @@ namespace Asce.Game.Players
         [SerializeField, Range(1, 3)] private int _nextCount = 2;
         [SerializeField] private Vector2Int _nextRange = new(1, 3);
         private readonly Queue<int> _next = new();
+
+        [Space]
+        [SerializeField] private string _dropSoundName = "Drop";
 
         public event System.Action<object, Orb> OnCurrentOrbChanged;
         public event System.Action<object> OnDropped;
@@ -109,6 +113,10 @@ namespace Asce.Game.Players
             CurrentOrb = null;
             DropCount++;
 
+            // Play drop SFX
+            AudioManager.Instance.PlaySFX(_dropSoundName);
+
+            // Add Score and pop up text
             int score = ScoreManager.Instance.AddDroppedScore();
             PopupTextVFXObject popup = VFXManager.Instance.SpawnAndPlay("Popup Text", transform.position) as PopupTextVFXObject;
             if (popup != null) popup.SetText(score.ToString());
