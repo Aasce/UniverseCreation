@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 namespace Asce.Shared.UIs
 {
-    public class UISettingsPanel : UIPanel
+    public abstract class UISettingsPanel : UIPanel
     {
         [Header("Content")]
         [SerializeField] protected Slider _masterVolume;

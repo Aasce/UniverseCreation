@@ -7,26 +7,29 @@ namespace Asce.Shared.SaveLoads
 {
     public class ProjectSaveLoadManager : DontDestroyOnLoadSingleton<ProjectSaveLoadManager>
     {
-        [SerializeField] private string _settingsFile = "player/settings.json";
+        [SerializeField] private string _volumeSettingsFile = "player/volume_settings.json";
 
         public void SaveSetttings()
         {
-            SettingsData settingsData = new();
-            settingsData.masterVolume = AudioManager.Instance.MasterVolume;
-            settingsData.musicVolume = AudioManager.Instance.MusicVolume;
-            settingsData.sfxVolume = AudioManager.Instance.SFXVolume;
-            SaveLoadSystem.Save(settingsData, _settingsFile);
+            if (AudioManager.Instance == null) return;
+            SettingsData settingsData = new()
+            {
+                masterVolume = AudioManager.Instance.MasterVolume,
+                musicVolume = AudioManager.Instance.MusicVolume,
+                sfxVolume = AudioManager.Instance.SFXVolume
+            };
+            SaveLoadSystem.Save(settingsData, _volumeSettingsFile);
         }
 
         public void LoadSetttings()
         {
-            SettingsData settingsData = SaveLoadSystem.Load<SettingsData>(_settingsFile);
+            if (AudioManager.Instance == null) return;
+            SettingsData settingsData = SaveLoadSystem.Load<SettingsData>(_volumeSettingsFile);
             AudioManager.Instance.MasterVolume = settingsData?.masterVolume ?? 0.75f;
             AudioManager.Instance.MusicVolume = settingsData?.musicVolume ?? 0.75f;
             AudioManager.Instance.SFXVolume = settingsData?.sfxVolume ?? 0.75f;
-
         }
 
-        public void DeleteSettings() => SaveLoadSystem.Delete(_settingsFile);
+        public void DeleteSettings() => SaveLoadSystem.Delete(_volumeSettingsFile);
     }
 }

@@ -66,7 +66,8 @@ namespace Asce.Game.UIs
 
         private void RankingButton_OnClicked()
         {
-            Debug.Log("Show Ranking - Not Implemented Yet");
+            UIRankings rankings = UIGameManager.Instance.PanelController.GetPanel<UIRankings>();
+            if (rankings != null) rankings.Show();
         }
     }
 }

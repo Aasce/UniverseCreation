@@ -27,6 +27,7 @@ namespace Asce.Game.Scores
                 if (_currentScore != value)
                 {
                     _currentScore = value;
+                    if (BestScore < _currentScore) BestScore = _currentScore;
                     OnScoreChanged?.Invoke(this, _currentScore);
                 }
             }
@@ -82,10 +83,6 @@ namespace Asce.Game.Scores
             };
 
             HistoryScores.Add(newScore);
-            if (BestScore < CurrentScore)
-            {
-                BestScore = CurrentScore;
-            }
         }
     }
 }

@@ -1,5 +1,6 @@
 using Asce.Game.Scores;
 using Asce.Managers.UIs;
+using Asce.Managers.Utils;
 using System.Globalization;
 using TMPro;
 using UnityEngine;
@@ -35,7 +36,7 @@ namespace Asce.Game.UIs
         public void SetScore(int score)
         {
             if (_scoreText == null) return;
-            _scoreText.text = score.ToString("N0", ScoreFormat);
+            _scoreText.text = NumberUtils.AsThousandSeparator(score);
         }
     }
 }

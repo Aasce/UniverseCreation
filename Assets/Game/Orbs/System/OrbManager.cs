@@ -44,17 +44,8 @@ namespace Asce.Game.Orbs
             orbA.IsMerged = true;
             orbB.IsMerged = true;
 
-            int newLevel = orbA.Information.Level + 1;
-            Orb mergedOrb = this.Spawn(newLevel, position);
-
-            if (mergedOrb.IsNull()) return null;
-
-            this.Despawn(orbB);
-            this.Despawn(orbA);
-
             // Play merge SFX
             AudioManager.Instance.PlaySFX(_mergeSoundName);
-
 
             // Add score and pop up text
             int score = ScoreManager.Instance.AddMergeOrbScore(orbA.Information.Level);
@@ -78,6 +69,12 @@ namespace Asce.Game.Orbs
                 }
             }
 
+            this.Despawn(orbB);
+            this.Despawn(orbA);
+
+            int newLevel = orbA.Information.Level + 1;
+            Orb mergedOrb = this.Spawn(newLevel, position);
+            if (mergedOrb.IsNull()) return null;
 
             MergedCount++;
             mergedOrb.IsValid = true;

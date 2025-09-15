@@ -24,6 +24,7 @@ namespace Asce.Game.UIs
         public override void Hide()
         {
             base.Hide();
+            transform.localScale = Vector3.one;
             _isCancel = false;
         }
 
