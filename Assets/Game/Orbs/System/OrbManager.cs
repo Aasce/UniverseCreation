@@ -4,7 +4,6 @@ using Asce.Managers;
 using Asce.Managers.Pools;
 using Asce.Managers.Utils;
 using Asce.Shared.Audios;
-using log4net.Core;
 using System.Collections.Generic;
 using UnityEngine;
 
