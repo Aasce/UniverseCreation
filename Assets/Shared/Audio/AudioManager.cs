@@ -137,7 +137,7 @@ namespace Asce.Shared.Audios
             sfxSource.volume = info.Volume * MixedSFXVolume;
             sfxSource.Play();
 
-            StartCoroutine(DeactivateAfterPlay(sfxSource, info.Clip.length));
+            StartCoroutine(DeactivateAfterPlay(sfxSource));
         }
 
         public void PlaySFX(string name, float delay) => StartCoroutine(this.PlaySFXDelay(name, delay));
@@ -147,9 +147,10 @@ namespace Asce.Shared.Audios
             this.PlaySFX(name);
         }
 
-        private IEnumerator DeactivateAfterPlay(AudioSource source, float duration)
+        private IEnumerator DeactivateAfterPlay(AudioSource source)
         {
             if (source == null || source.clip == null) yield break;
+            float duration = (source.clip.loadState == AudioDataLoadState.Loaded) ? source.clip.length : 3f;
             yield return new WaitForSeconds(duration + 0.5f);
 
             source.Stop();

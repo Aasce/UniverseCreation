@@ -36,12 +36,11 @@ namespace Asce.Managers
 
             if (isShowLoadingScene)
             {
-                // Step 1: Load Loading scene immediately
-                SceneManager.LoadScene(LoadingSceneName);
-
-                // Give Loading scene a chance to initialize and render
-                await Task.Yield();
-                await Task.Yield();
+                AsyncOperation loadingOp = SceneManager.LoadSceneAsync(LoadingSceneName);
+                while (!loadingOp.isDone)
+                {
+                    await Task.Yield();
+                }
             }
 
             // Step 2: Start loading the target scene asynchronously

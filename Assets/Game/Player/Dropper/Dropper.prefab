@@ -47,6 +47,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _currentOrb: {fileID: 0}
+  _dropCount: 0
   _moveRange: {x: -1.7, y: 1.7}
   _torqueRange: {x: -0.02, y: 0.02}
   _dropCooldown:
@@ -54,6 +55,7 @@ MonoBehaviour:
     _currentTime: 0.4
   _nextCount: 3
   _nextRange: {x: 1, y: 3}
+  _dropSoundName: Drop
 --- !u!1 &5263149332510296788
 GameObject:
   m_ObjectHideFlags: 0
@@ -109,7 +111,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -196,7 +198,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
